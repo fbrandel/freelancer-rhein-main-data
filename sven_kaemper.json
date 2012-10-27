@@ -1,0 +1,15 @@
+{
+    "name": "Sven Kaemper",
+    "title": "Informationsarchitektur & User Experience Design",
+    "email": "post@svenkaemper.de",
+    "phone": "0611 585321-22",
+    "website": "http://www.svenkaemper.de",
+    "city": ["Wiesbaden", "Mainz", "Frankfurt"],
+    "keywords": ["UX", "IA", "Konzeption", "Informationsarchitektur", "User Experience", "Wireframes", "Prototyping", "Usability"],
+    "profiles": {
+        "gravatar": "post@svenkaemper.de",
+        "xing": "http://xing.to/svenkaemper",
+        "twitter": "http://twitter.com/svenkaemper",
+        "google+": "https://plus.google.com/u/0/105128291271883342879"
+    }
+}

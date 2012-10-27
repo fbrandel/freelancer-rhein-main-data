@@ -1,0 +1,23 @@
+{
+    "name": "Erika Mustermann",
+    "title": "Software Testing",
+    "email": "erika@mustermann.de",
+    "phone": "0174 1234 567",
+    "website": "http://www.example.com",
+    "city": ["Frankfurt", "Offenbach"],
+    "keywords": ["testing", "qualitätssicherung", "qa"],
+    "profiles": {
+        "gravatar": "erika.mustermann@mustermann.de",
+        "xing": "http://xing.to/erika-mustermann",
+        "twitter": "http://twitter.com/erika.mustermann",
+        "google+": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}
