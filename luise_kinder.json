@@ -1,0 +1,23 @@
+{
+    "name": "Luise Kinder",
+    "title": "Social Media Management, Content Management",
+    "email": "info@luisekinder.de",
+    "phone": "0176 20 97 06 19",
+    "website": "http://luisekinder.de",
+    "city": ["Mainz", "Eschborn", "Frankfurt"],
+    "keywords": ["social media", "redaktion", "content management", "schauspiel"],
+    "profiles": {
+        "gravatar": "info@luisekinder.de",
+        "xing": "https://www.xing.com/profile/Luise_Kinder",
+        "twitter": "https://twitter.com/luisekinder",
+        "google+": "https://plus.google.com/u/0/110738984592024688925/posts",
+        "linkedin": "http://de.linkedin.com/pub/luise-kinder/39/a5/412",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}
