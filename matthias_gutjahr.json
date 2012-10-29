@@ -1,0 +1,23 @@
+{
+    "name": "Matthias Gutjahr",
+    "title": "Web-Entwickler PHP",
+    "email": "mail@matthias-gutjahr.de",
+    "phone": "0611 97142924",
+    "website": "http://matthias-gutjahr.de/",
+    "city": ["Wiesbaden", "Mainz", "Frankfurt"],
+    "keywords": ["php", "symfony", "zend", "magento", "mysql", "javascript", "doctrine"],
+    "profiles": {
+        "gravatar": "mattsches",
+        "xing": "https://www.xing.com/profile/Matthias_Gutjahr",
+        "twitter": "https://twitter.com/mattsches",
+        "google+": "https://plus.google.com/107692581640909902970",
+        "linkedin": "http://de.linkedin.com/in/matthiasgutjahr",
+        "github": "https://github.com/mattsches",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "http://www.flickr.com/photos/sperrobjekt/",
+        "slideshare": "http://de.slideshare.net/mattsches"
+    }
+}
