@@ -1,0 +1,23 @@
+{
+    "name": "Walter Ebert",
+    "title": "Web-Entwickler",
+    "email": "mail@walterebert.de",
+    "phone": "069 173208980",
+    "website": "http://www.walterebert.de/",
+    "city": ["Frankfurt"],
+    "keywords": ["PHP","HTML5","CSS","Javascript","MySQL"],
+    "profiles": {
+        "gravatar": "",
+        "xing": "https://www.xing.com/profile/Walter_Ebert",
+        "twitter": "https://twitter.com/wltrd",
+        "google+": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "http://www.slideshare.net/walterebert"
+    }
+}
