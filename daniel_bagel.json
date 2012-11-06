@@ -1,0 +1,13 @@
+{
+    "name": "Daniel Bagel",
+    "title": "Interaktion, Webdesign, Programmierung & Beratung",
+    "email": "db@dbagel.de",
+    "website": "http://dbagel.de",
+    "city": ["Wiesbaden", "Mainz", "Frankfurt"],
+    "keywords": ["frontend", "backend", "interaktion", "entwicklung", "umsetzung"],
+    "profiles": {
+        "xing": "https://www.xing.com/profile/Daniel_Bagel",
+        "twitter": "http://twitter.com/debagel",
+        "flickr": "http://www.flickr.com/photos/debagel/"
+    }
+}
