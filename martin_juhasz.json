@@ -1,0 +1,23 @@
+{
+    "name": "Martin Juhasz",
+    "title": "iOS (iPhone/iPad) Development, Web Development",
+    "email": "info@martinjuhasz.de",
+    "phone": "",
+    "website": "http://www.martinjuhasz.de",
+    "city": ["Wiesbaden"],
+    "keywords": ["ios", "iphone", "ipad", "entwicklung", "app", "website", "webseite", "internetpräsenz", "PHP", "Ruby", "Rails", "MySQL", "SQL", "Javascript", "jQuery"],
+    "profiles": {
+        "gravatar": "info@martinjuhasz.de",
+        "xing": "",
+        "twitter": "",
+        "google+": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}
