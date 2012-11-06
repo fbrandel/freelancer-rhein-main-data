@@ -1,0 +1,23 @@
+{
+    "name": "Markus Tacker",
+    "title": "Konzeption und Realisierung von komplexen Webanwendungen, technische Projektleitung",
+    "email": "m@tckr.cc",
+    "phone": "0179 667 88 59",
+    "website": "http://tckr.cc/",
+    "city": ["Offenbach", "Frankfurt", "Wiesbaden"],
+    "keywords": ["Backend-Entwicklung", "Technisches Konzept", "Projektleitung", "Mitarbeiterführung", "Softwarequalität", "entrepreneur spirit", "MySQL", "PHP", "Python", "REST", "Schnittstellen", "NoSQL", "PHPUnit", "Linux", "Subversion SVN", "Symfony2", "Android", "Doctrine", "Git", "Webstandards", "XML", "Java", "Apache", "JavaScript", "Jenkins", "Mootools", "PEAR", "Trac", "Bash", "ActionScript AS3", "Continuous Integration CI", "CouchDb", "Flowplayer", "JQuery", "Regular Expressions", "Security", "Social Media", "WordPress", "Usability", "MongoDB", "Microformats", "Redmine", "Gearman", "Flash", "HTML5", "XHTML", "SOAP", "XMLRPC", "Facebook Applications", "Bittorrent", "Contao/Typolight", "OTRS"],
+    "profiles": {
+        "gravatar": "m@tckr.cc",
+        "xing": "https://www.xing.com/profile/Markus_Tacker",
+        "twitter": "http://twitter.com/coderbyheart",
+        "google+": "https://plus.google.com/117860902301942617280",
+        "linkedin": "http://www.linkedin.com/profile/view?id=26414365",
+        "github": "https://github.com/tacker",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "http://www.flickr.com/people/tacker/",
+        "slideshare": ""
+    }
+}
