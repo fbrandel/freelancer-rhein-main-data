@@ -1,0 +1,24 @@
+{
+    "name": "Michael Klapper",
+    "title": "Lead Developer",
+    "email": "info@morphodo.com",
+    "phone": "",
+    "website": "http://www.morphodo.com",
+    "city": ["Frankfurt", "Offenbach", "Mainz", "Wiesbaden"],
+    "keywords": ["Backend-Entwicklung","Technisches Projektmanagement", "TYPO3", "TYPO3 Flow","Continous Integration", "Test Driven Development"],
+    "profiles": {
+        "gravatar": "",
+        "xing": "https://www.xing.com/profile/Michael_Klapper",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}
