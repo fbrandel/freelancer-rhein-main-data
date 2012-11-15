@@ -1,0 +1,16 @@
+{
+    "name": "Sebastian Fastner",
+    "title": "Experte für Mobile- und Webanwendungen",
+    "email": "mail@sebastianfastner.de",
+    "phone": "+49 176 320 426 96",
+    "website": "http://www.sebastianfastner.de",
+    "city": ["Mainz"],
+    "keywords": ["frontend", "javascript", "html5", "css3", "mobile", "unify"],
+    "profiles": {
+        "gravatar": "mail@sebastianfastner.de",
+        "xing": "https://www.xing.com/profile/Sebastian_Fastner",
+        "twitter": "http://twitter.com/fastner",
+        "google+": "https://plus.google.com/111409971843787540885",
+        "github": "https://github.com/fastner"
+    }
+}
