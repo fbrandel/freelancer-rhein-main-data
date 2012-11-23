@@ -1,0 +1,24 @@
+{
+    "name": "Timo Perl",
+    "title": "Web Frontend Entwicklung",
+    "email": "t.perl@2ptags.de",
+    "phone": "06106 63 94 212",
+    "website": "http://2ptags.de",
+    "city": ["Frankfurt", "Darmstadt", "Offenbach"],
+    "keywords": ["CSS", "HTML", "Javascript", "SVG", "Microformats", "Accessibility", "Responsive Design"],
+    "profiles": {
+        "gravatar": "mail@2ptags.de",
+        "xing": "http://xing.to/timo_perl",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}
