@@ -62,7 +62,8 @@ class JsonFileTest extends PHPUnit_Framework_TestCase
         $iterator = new DirectoryIterator(__DIR__ . '/../');
 
         foreach ($iterator as $fileinfo) {
-            if (!$fileinfo->isDot() && $fileinfo->getExtension() == 'json') {
+            $fileExtension = pathinfo($fileinfo->getFilename(), PATHINFO_EXTENSION);
+            if (!$fileinfo->isDot() && $fileExtension == 'json') {
                 $data[] = array($fileinfo->getRealPath());
             }
         }
