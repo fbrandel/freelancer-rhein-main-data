@@ -1,0 +1,25 @@
+{
+    "name": "Torsten Pohl",
+    "title": "Web-Entwickler, technischer Projektleiter",
+    "email": "",
+    "phone": "06161 8774280",
+    "website": "http://www.torsten-pohl.de/",
+    "city": ["Darmstadt", "Frankfurt", "Offenbach", "Aschaffenburg", "Mainz", "Wiesbaden"],
+    "keywords": ["ajax", "css", "entwickler", "entwicklung", "html", "informatiker", "j2ee", "java", "javascript", "jquery", "ldap", "mysql", "oracle", "php", "programmierer", "programmierung", "soap", "software", "subversion", "technische projektleitung", "technischer projektleiter", "uddi", "web services", "wsdl", "xml", "zend framework"],
+    "profiles": {
+        "gravatar": "tpohl@gmx.net",
+        "xing": "https://www.xing.com/profile/Torsten_Pohl2",
+        "twitter": "http://twitter.com/tausendfach",
+        "google+": "http://www.torsten-pohl.de/+",
+        "facebook": "http://www.facebook.com/torsten.pohl2",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}
