@@ -1,0 +1,18 @@
+{
+    "name": "Peter Eulberg",
+    "title": "IT Berater, Technischer Beirat, Digitalisierung von Geschäftsprozessen, PMP",
+    "email": "peter@eulberg.info",
+    "phone": "0170 2174067",
+    "website": "http://eulberg.info",
+    "city": ["Mainz", "Wiesbaden", "Darmstadt", "Frankfurt"],
+    "keywords": ["Geschäftsprozesse", "ERP", "Agentursoftware", "Online Vertrieb", "Online Marketing", "Projektmanagement"],
+    "profiles": {
+        "gravatar": "peter@eulberg.info",
+        "xing": "https://www.xing.com/profile/Peter_Eulberg",
+        "twitter": "https://twitter.com/peulberg",
+        "google+": "https://plus.google.com/105330076076470970768",
+        "linkedin": "http://www.linkedin.com/in/eulberg",
+        "github": "https://github.com/peulberg",
+        "slideshare": "http://de.slideshare.net/eulberg"
+    }
+}
