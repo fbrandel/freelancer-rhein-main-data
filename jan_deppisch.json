@@ -1,10 +1,10 @@
 {
     "name": "Jan Deppisch",
-    "title": "Frontend-Entwickler & -Berater",
+    "title": "Frontend-Entwicklung & -Beratung",
     "email": "mail@netzartist.de",
-    "phone": "0174 1234 567",
+    "phone": "0178 7646320",
     "website": "http://www.netzartist.de",
-    "city": ["Wiesbaden", "Mainz", "Taunusstein", "Darmstadt"],
+    "city": ["Wiesbaden", "Taunusstein", "Mainz", "Darmstadt"],
     "keywords": ["Frontend", "HTML", "CSS", "CSS3", "Responsive Design", "RWD", "Mobile", "Javascript", "jQuery", "Html5", "Webedition", "Processwire", "Scrum", "Technische Konzeption", "Projektleitung", "Standardisierung", "Prozess", "Workflow", "Standards", "Beratung", "Frontend-Beratung", "js", "a11y", "Accessibility"],
     "profiles": {
         "gravatar": "mail@netzartist.de",
