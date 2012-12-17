@@ -4,7 +4,7 @@
     "email": "powtac@gmx.de",
     "phone": "+481775804529",
     "website": "http://www.bruechner.de",
-    "city": ["Heidelberg"],
+    "city": ["Frankfurt", "Heidelberg"],
     "keywords": ["php", "javascript", "programming", "consulting"],
     "profiles": {
         "gravatar": "powtac@gmx.de",
