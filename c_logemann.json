@@ -1,0 +1,25 @@
+{
+    "name": "Carsten Logemann",
+    "title": "Drupal Web Entwickler",
+    "email": "drupal@paratio.com",
+    "phone": "069 21997696",
+    "website": "http://paratio.com/",
+    "city": ["Frankfurt"],
+    "keywords": ["Drupal", "PHP", "MySQL", "MariaDB", "Apache", "Moodle", "HTML", "CSS"],
+    "profiles": {
+        "gravatar": "drupal@paratio.com",
+        "xing": "https://www.xing.com/profile/Carsten_Logemann",
+        "twitter": "http://twitter.com/C_Logemann",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "http://www.linkedin.com/in/carstenlogemann",
+        "github": "https://github.com/C-Logemann/",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}
