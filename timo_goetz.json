@@ -1,0 +1,11 @@
+{
+    "name": "Timo Goetz",
+    "title": "Webdesign und Programmierung",
+    "email": "goetz@app-and-web.de",
+    "phone": "0157 376 15634",
+    "website": "http://www.app-and-web.de",
+    "city": ["Frankfurt", "Offenbach","Mainz","Wiesbaden"],
+    "keywords": ["Webdesign", "App Entwicklung fuer iPhone", "E-Commerce", "Joomla"],
+    "profiles": {
+    }
+}
