@@ -1,0 +1,26 @@
+{
+    "name": "Christian Waidner",
+    "title": "Softwareberatung, Softwareentwicklung, Projektunterstützung, Testmanagement",
+    "email": "",
+    "phone": "+49 176 1004 2345",
+    "website": "http://waidner-itsolutions.de",
+    "city": ["Wiesbaden"],
+    "keywords": ["Beratung", "Entwicklung", "Test", "Softwareauswahl", "Bedarfermittlung", "Optimierung", ".NET", "dotnet", "Lotus Notes", "JavaScript", "PHP", "Yii", "jQuery"],
+    "profiles": {
+        "gravatar": "christian@waidner-itsolutions.de",
+        "xing": "https://www.xing.com/profile/Christian_Waidner",
+        "twitter": "",
+        "google+": "https://plus.google.com/b/106373318639696752708/",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "http://stackoverflow.com/users/230755/christian-waidner",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
