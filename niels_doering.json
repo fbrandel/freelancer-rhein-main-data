@@ -1,0 +1,24 @@
+{
+    "name": "Niels Döring",
+    "title": "Web Development + Technisches Projektmanagement",
+    "email": "niels.doering@outlook.com",
+    "phone": "0152 55709377",
+    "website": "http://www.nielsdoering.de",
+    "city": ["Frankfurt", "Wiesbaden", "Mainz", "Gießen"],
+    "keywords": ["c#", "javascript", "html5", "css3", "jquery", "Technisches Projektmanagement", ".net","c sharp", "dot net", "asp", "php", "zend framework", "frontend", "backend", "wordpress"],
+    "profiles": {
+        "gravatar": "niels.doering@outlook.com",
+        "xing": "http://xing.to/nielsdoering",
+        "twitter": "",
+        "google+": "https://plus.google.com/105489227205885066883",
+        "facebook": "http://www.facebook.com/niels.doering",
+        "linkedin": "http://www.linkedin.com/in/nielsdoering",
+        "github": "http://github.com/ndd",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}
