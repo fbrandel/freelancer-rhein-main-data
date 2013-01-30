@@ -1,11 +1,11 @@
 {
     "name": "Sebastian Werner",
-    "title": "Senior Web Developer",
+    "title": "Senior Web Application Developer",
     "email": "info@sebastian-werner.net",
     "phone": "0151 22631309",
     "website": "http://www.sebastian-werner.net",
-    "city": ["Darmstadt", "Frankfurt", "Mainz", "Wiesbaden", "Hanau", "Offenbach"],
-    "keywords": ["javascript", "html5", "qooxdoo", "jasy", "tooling", "deployment", "css", "html", "mobileweb", "ria", "webapp"],
+    "city": ["Darmstadt", "Frankfurt", "Mainz", "Wiesbaden"],
+    "keywords": ["javascript", "html5", "html", "qooxdoo", "jasy", "core", "tooling", "deployment", "css", "css3", "mobileweb", "ria", "webapp"],
     "profiles": {
         "gravatar": "info@sebastian-werner.net",
         "xing": "https://www.xing.com/profile/Sebastian_Werner7",
