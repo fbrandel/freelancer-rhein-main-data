@@ -1,0 +1,26 @@
+{
+    "name": "Jochen Stärk",
+    "title": "Webentwicklung Back-End (PHP)",
+    "email": "jstaerk@usegroup.de",
+    "phone": "01774512645",
+    "website": "http://www.usegroup.de",
+    "city": ["Frankfurt", "Offenbach", "Mainz", "Wiesbaden"],
+    "keywords": ["testing", "qualitätssicherung", "qa", "tester"],
+    "profiles": {
+        "gravatar": "jstaerk@usegroup.de",
+        "xing": "http://xing.to/jstaerk",
+        "twitter": "http://twitter.com/jstaerk",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "http://www.linkedin.com/in/jstaerk",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
