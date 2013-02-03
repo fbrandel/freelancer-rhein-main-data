@@ -1,0 +1,23 @@
+{
+    "name": "Jens Weigel",
+    "title": "Grafikdesign für Web und Print",
+    "email": "me@jensweigel.de",
+    "phone": "0151 41925024",
+    "website": "http://www.jensweigel.de",
+    "city": ["Marburg", "Gießen", "Frankfurt"],
+    "keywords": ["design", "web", "flyer", "editorial","typo3","css","html","responsive","broschüre","typografie"],
+    "profiles": {
+        "xing": "https://www.xing.com/profile/Jens_Weigel?sc_o=mxb_p",
+        "twitter": "http://twitter.com/jensweigel_de",
+        "google+": "https://plus.google.com/105641337067497608102/",
+        "facebook": "https://www.facebook.com/pages/Jens-Weigel-Design/339164259442771",
+        "linkedin": "http://de.linkedin.com/in/jensweigeldesigner",
+        "github": "https://github.com/jensweigel/",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "http://www.behance.net/jensweigel",
+        "flickr": "http://www.flickr.com/photos/jensweigel_de/",
+        "slideshare": "http://de.slideshare.net/jensweigel_de"
+    }
+}

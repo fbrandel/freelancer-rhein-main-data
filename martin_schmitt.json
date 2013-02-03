@@ -3,8 +3,8 @@
     "title": "Systemarchitekt Linux und Netzwerke",
     "email": "info@scsy.de",
     "website": "http://scsy.de",
-    "city": ["Frankfurt", "Giessen", "Wiesbaden"],
-    "keywords": ["unix", "linux", "internet", "mail", "security", "antispam", "ssl", "pgp", "crypto", "encryption", "ip", "ipv6", "pci", "pci-dss", "frankfurt", "giessen", "wiesbaden"],
+    "city": ["Frankfurt", "Gießen", "Wiesbaden"],
+    "keywords": ["unix", "linux", "internet", "mail", "security", "antispam", "ssl", "pgp", "crypto", "encryption", "ip", "ipv6", "pci", "pci-dss", "frankfurt", "gießen", "wiesbaden"],
     "profiles": {
         "gravatar": "mas@scsy.de",
         "xing": "https://www.xing.com/profile/Martin_Schmitt",

@@ -1,0 +1,14 @@
+{
+    "name": "Robin Grawitter",
+    "title": "Design & Art Direction",
+    "email": "rob@grawitorium.de",
+    "phone": "0151 22 30 84 49",
+    "website": "http://www.grawitorium.de",
+    "city": ["Wiesbaden", "Frankfurt"],
+    "keywords": ["Design", "Kommunikation", "Art Direction"],
+    "profiles": {
+        "gravatar": "rob@grawitorium.de",
+        "xing": "https://www.xing.com/profile/robin_grawitter",
+        "twitter": "https://twitter.com/gratwittorium"
+    }
+}

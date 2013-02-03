@@ -1,0 +1,23 @@
+{
+    "name": "Rocco Georgi",
+    "title": "Mobile Technology Consulting",
+    "email": "rocco@pavingways.com",
+    "phone": "01577 180 54 25",
+    "website": "http://www.pavingways.com",
+    "city": ["Frankfurt", "Darmstadt"],
+    "keywords": ["Mobile", "Web", "iOS", "Android", "Windows Phone 7", "JavaScript", "HTML5", "PhoneGap", "Cordova", "Objective-C", "jQuery Mobile", "Sencha Touch", "Unify", "Kendo UI", "node.js", "NoSQL", "PHP", "Git", "Gerrit"],
+    "profiles": {
+        "gravatar": "rocco@pavingways.com",
+        "xing": "https://www.xing.com/profile/Rocco_Georgi",
+        "twitter": "https://twitter.com/geeroc",
+        "google+": "https://plus.google.com/115340382965637589434/about",
+        "linkedin": "http://www.linkedin.com/in/roccogeorgi",
+        "github": "https://github.com/rocco",
+        "stackoverflow": "http://stackoverflow.com/users/527940/pavingways",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "http://www.flickr.com/photos/20393856@N02",
+        "slideshare": "http://www.slideshare.net/pavingways/"
+    }
+}

@@ -5,7 +5,7 @@
     "phone": "0170 186 33 67",
     "website": "http://www.fbrandel.de",
     "city": ["Wiesbaden", "Mainz"],
-    "keywords": ["frontend", "javascript", "html5", "css3", "jquery", "mobile", "sencha touch"],
+    "keywords": ["frontend", "javascript", "html5", "css3", "jquery", "mobile", "sencha touch", "backbonejs", "nodejs", "sass"],
     "profiles": {
         "gravatar": "fbrandel@fbrandel.de",
         "xing": "http://xing.to/fbrandel",

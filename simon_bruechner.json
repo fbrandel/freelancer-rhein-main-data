@@ -1,0 +1,25 @@
+{
+    "name": "Simon Brüchner",
+    "title": "Webdeveloper",
+    "email": "powtac@gmx.de",
+    "phone": "+481775804529",
+    "website": "http://www.bruechner.de",
+    "city": ["Frankfurt", "Heidelberg"],
+    "keywords": ["php", "javascript", "programming", "consulting"],
+    "profiles": {
+        "gravatar": "powtac@gmx.de",
+        "xing": "https://www.xing.com/profile/Simon_Bruechner",
+        "twitter": "http://twitter.com/powtac",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "http://www.linkedin.com/in/simonbruechner",
+        "github": "",
+        "stackoverflow": "http://stackoverflow.com/users/22470/powtac",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}
