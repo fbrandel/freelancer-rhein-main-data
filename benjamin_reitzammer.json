@@ -4,8 +4,11 @@
     "email": "benjamin@squeakyvessel.com",
     "website": "http://www.squeakyvessel.com",
     "city": ["Frankfurt", "Offenbach", "Wiesbaden", "Mainz", "Darmstadt"],
-    "keywords": ["python", "java", "tdd", "projektmanagement", "technisches projektmanagement",
-        "web", "architektur", "architekt"],
+    "keywords": ["python", "java", "tdd", "projektmanagement", "technisches projektmanagement", "projektleitung",
+        "web", "architektur", "architekt", "git", "subversion", "html", "html5", "javascript", "json", "REST",
+        "SOAP", "backend", "jquery", "Jenkins", "ant", "maven", "bash", "continuous integration", "ci", "php",
+        "software craftsmanship", "unit testing", "training", "workshop", "xml", "apache", "linux", "devops",
+        "mysql", "css", "jee", "selenium"],
     "profiles": {
         "gravatar": "benjamin@squeakyvessel.com",
         "xing": "https://www.xing.com/profile/Benjamin_Reitzammer",
