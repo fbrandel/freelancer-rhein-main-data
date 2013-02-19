@@ -1,11 +1,11 @@
 {
     "name": "Sebastian Fastner",
-    "title": "Experte für Mobile- und Webanwendungen",
+    "title": "Experte für Mobil- und Webanwendungen",
     "email": "mail@sebastianfastner.de",
     "phone": "+49 176 320 426 96",
     "website": "http://www.sebastianfastner.de",
-    "city": ["Mainz"],
-    "keywords": ["frontend", "javascript", "html5", "css3", "mobile", "unify"],
+    "city": ["Mainz","Wiesbaden","Frankfurt","Darmstadt"],
+    "keywords": ["frontend", "javascript", "html5", "css3", "mobile", "unify", "mobile", "android", "apple"],
     "profiles": {
         "gravatar": "mail@sebastianfastner.de",
         "xing": "https://www.xing.com/profile/Sebastian_Fastner",
