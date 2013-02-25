@@ -1,0 +1,26 @@
+{
+    "name": "Sebastian Bachmann",
+    "title": "iOS und Ruby/Rails Entwicklung",
+    "email": "hi@dazedandconfused-development.com",
+    "phone": "+49 62 53 98 92 64 5",
+    "website": "http://dazedandconfused-development.com",
+    "city": ["Frankfurt", "Darmstadt"],
+    "keywords": ["iOS", "Objective-C", "RubyMotion", "Ruby", "RSpec", "Sinatra", "Rails", "Twitter-Bootstrap"],
+    "profiles": {
+        "gravatar": "hi@dazedandconfused-development.com",
+        "xing": "xing.to/sebastianbachmann",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
