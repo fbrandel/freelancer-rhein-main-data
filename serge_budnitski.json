@@ -1,0 +1,23 @@
+{
+    "name": "Serge Budnitski",
+    "title": "Web Development",
+    "email": "serge.budnitski@gmail.com",
+    "phone": "+49 6174 961541",
+    "website": "http://digitalmorning.de/",
+    "city": ["Frankfurt", "Wiesbaden", "Mainz", "Darmstadt", "Gießen"],
+    "keywords": ["JavaScript", "HTML5", "Node.js", "backbone.js", "Mobile Websites", "Web Apps", "PHP", "Zend", "SQL", "MongoDB", "jQuery", "SVG", "CSS3", "Responsive Webdesign" ],
+    "profiles": {
+        "gravatar": "serge.budnitski@gmail.com",
+        "xing": "https://www.xing.com/profile/Serge_Budnitski",
+        "twitter": "",
+        "google+": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}
