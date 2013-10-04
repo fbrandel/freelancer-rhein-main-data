@@ -1,0 +1,26 @@
+{
+    "name": "Stephan Michels",
+    "title": "Softwareentwicklung und Beratung",
+    "email": "stephan.michels@gmail.com",
+    "phone": "0170 307 1533",
+    "website": "http://www.stephanmichels.de",
+    "city": ["Frankfurt", "Offenbach", "Wiesbaden", "Darmstadt"],
+    "keywords": ["MacOSX", "iOS", "Cocoa", "Objective-c"],
+    "profiles": {
+        "gravatar": "stephan.michels@gmail.com",
+        "xing": "http://xing.to/stephan-michels",
+        "twitter": "http://twitter.com/stemichels",
+        "google+": "",
+        "facebook": "http://www.facebook.com/stephan.michels.7",
+        "linkedin": "http://de.linkedin.com/pub/stephan-michels/9/2b9/878",
+        "github": "http://github.com/smic",
+        "stackoverflow": "http://stackoverflow.com/users/811010/stephan-michels",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
