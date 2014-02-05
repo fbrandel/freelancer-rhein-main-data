@@ -1,0 +1,22 @@
+{
+    "name": "Chris Aumann",
+    "title": "Señor Devops",
+    "email": "me@chr4.org",
+    "website": "http://chr4.org",
+    "city": ["Frankfurt", "Offenbach", "Darmstadt"],
+    "keywords": [
+      "chef", "devops", "linux", "security", "postgres", "postgresql", "mysql",
+      "ruby", "ruby on rails", "rails", "c", "go", "golang", "bash", "zsh",
+      "mongodb", "nosql", "git", "continous deployment", "capistrano", "haml",
+      "scalability", "high availability", "ha", "virtualization", "openstack",
+      "infrastructure as code", "saas", "software as a service", "ssl", "tls"
+      "openssl", "administration", "server", "operations", "ssh", "zabbix",
+      "monitoring", "bsd", "freebsd", "consulting", "vpn", "openvpn", "docker",
+      "iptables", "nftables", "firewall", "deployment", "continous delivery"
+    ],
+    "profiles": {
+        "gravatar": "me@chr4.org",
+        "xing": "https://www.xing.com/profile/Chris_Aumann",
+        "github": "https://github.com/chr4"
+    }
+}
