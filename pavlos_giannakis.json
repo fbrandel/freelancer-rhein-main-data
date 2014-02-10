@@ -1,0 +1,23 @@
+{
+    "name": "Pavlos Giannakis",
+    "title": "Backend- & Frontend-Dev",
+    "email": "pavlos@codingnerd.de",
+    "phone": "0178 53 72 856",
+    "website": "http://www.codingnerd.de",
+    "city": ["Frankfurt", "Offenbach"],
+    "keywords": ["Backend", "Frontend", "PHP", "Zend-Framework", "Symfony2", "Doctrine", "Wordpress", "JavaScript", "jQuery", "MySQL", "MongoDB", "SVN", "GIT"],
+    "profiles": {
+        "gravatar": "pavlos@codingnerd.de",
+        "xing": "https://www.xing.com/profile/Pavlos_Giannakis2",
+        "twitter": "",
+        "google+": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}
