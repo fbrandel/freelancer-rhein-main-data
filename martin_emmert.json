@@ -1,0 +1,16 @@
+{
+    "name": "Martin Emmert",
+    "title": "ActionScript · JavaScript · HTML · CSS · PHP · Design",
+    "email": "martin@martinemmert.de",
+    "phone": "0171 772 46 58",
+    "website": "http://www.martinemmert.de",
+    "city": ["Frankfurt", "Offenbach", "Hanau", "Aschaffenburg"],
+    "keywords": ["javascript", "actionscript", "html", "css", "php", "mobile", "jquery", "game development", "online banner", "html5", "css3", "ember.js", "magento", "codeigniter", "phonegap", "flash", "flex"],
+    "profiles": {
+        "gravatar": "martin@martinemmert.de",
+        "xing": "http://www.xing.com/profile/Martin_Emmert2",
+        "twitter": "http://twitter.com/martinemmert",
+        "google+": "https://plus.google.com/112857174538332361749/",
+        "flickr": "http://www.flickr.com/photos/pixelslave06/"
+    }
+}

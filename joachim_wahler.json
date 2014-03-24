@@ -1,0 +1,23 @@
+{
+	"name": "Joachim Wahler",
+	"title": "Frontend Entwicklung",
+	"email": "me@jwahler.de",
+	"phone": "0611 94580022",
+	"website": "http://www.joachimwahler.de",
+	"city": ["Wiesbaden", "Mainz", "Frankfurt", "Darmstadt"],
+	"keywords": ["html5", "css", "jquery", "wordpress"],
+	"profiles": {
+		"gravatar": "me@jwahler.de",
+		"xing": "https://www.xing.com/profile/Joachim_Wahler",
+		"twitter": "",
+		"google+": "",
+		"linkedin": "",
+		"github": "",
+		"stackoverflow": "",
+		"aboutme": "",
+		"500px": "",
+		"behance": "",
+		"flickr": "",
+		"slideshare": ""
+	}
+}

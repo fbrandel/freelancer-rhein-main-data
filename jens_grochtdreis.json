@@ -1,0 +1,19 @@
+{
+    "name": "Jens Grochtdreis",
+    "title": "Frontend-Entwicklung, Beratung & Schulung",
+    "email": "jens@grochtdreis.de",
+    "phone": "0172 5615752",
+    "website": "http://grochtdreis.de",
+    "city": ["Mainz", "Wiesbaden", "Frankfurt", "Darmstadt", "Mannheim"],
+    "keywords": ["Frontend", "Frontendentwicklung", "Responsive Webdesign", "RWD", "HTML", "HTML5", "CSS", "CSS3", "jQuery", "Technische Konzeption", "Teamleitung", "Standardisierung", "Workflow", "Webstandards", "Beratung", "Frontend-Beratung", "a11y", "Accessibility", "Schulung", "Inhouse-Schulung"],
+    "profiles": {
+        "gravatar": "jens@grochtdreis.de",
+        "xing": "https://www.xing.com/profiles/Jens_Grochtdreis/",
+        "twitter": "http://twitter.com/flocke",
+        "google+": "http://grochtdreis.de/+",
+        "linkedin": "http://www.linkedin.com/pub/jens-grochtdreis/4/36a/a37",
+        "github": "https://github.com/jensgro",
+        "slideshare": "http://de.slideshare.net/Flocke669",
+        "pinboard": "http://pinboard.in/u:flocke"
+    }
+}

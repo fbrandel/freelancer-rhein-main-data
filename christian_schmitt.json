@@ -1,0 +1,26 @@
+{
+    "name": "Christian Schmitt",
+    "title": "Consulter",
+    "email": "mail@christianschmitt-online.de",
+    "phone": "069 17320879",
+    "website": "http://christianschmitt-online.de",
+    "city": ["Frankfurt"],
+    "keywords": ["mysql", "delphi", "Hardware", "tester"],
+    "profiles": {
+        "gravatar": "",
+        "xing": "https://www.xing.com/profiles/Christian_Schmitt83",
+        "twitter": "https://twitter.com/EDVSchmitt",
+        "google+": "https://plus.google.com/105226014510611433211",
+        "facebook": "https://www.facebook.com/pages/EDV-Service-Schmitt",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}

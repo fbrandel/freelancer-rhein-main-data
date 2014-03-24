@@ -1,0 +1,24 @@
+{
+    "name": "Nina Listmann",
+    "title": "Art Direction",
+    "email": "ich@ninalistmann.de",
+    "phone": "0152 23 24 78 71",
+    "website": "http://www.ninalistmann.de",
+    "city": ["Frankfurt"],
+    "keywords": ["Art Direction", "Logoentwicklung", "Design", "Webdesign", "Print"],
+    "profiles": {
+        "gravatar": "ich@ninalistmann.de",
+        "xing": "http://xing.to/Nina_Listmann",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}

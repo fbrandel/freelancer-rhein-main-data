@@ -1,0 +1,15 @@
+{
+    "name": "Oliver Ruehl",
+    "title": "Frontend-Entwickler",
+    "email": "oliver@ruehldesign.co",
+    "phone": "0172 674 68 65",
+    "website": "http://ruehldesign.co",
+    "city": ["Frankfurt", "Offenbach"],
+    "keywords": ["html5", "wordpress", "sass", "css"],
+    "profiles": {
+        "gravatar": "oliver@ruehldesign.co",
+        "twitter": "http://twitter.com/ruehldesign",
+        "github": "https://github.com/oliver-ruehl",
+        "pinboard": "http://pinboard.in/u:oruehl"
+    }
+}

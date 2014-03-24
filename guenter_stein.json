@@ -1,0 +1,17 @@
+{
+    "name": "Günter Stein",
+    "title": "IT-Managementberater",
+    "email": "guenter.stein@copasco.de",
+    "phone": "0172 5113786",
+    "website": "http://www.copasco.de",
+    "city": ["Frankfurt", "Offenbach", "Wiesbaden", "Mainz"],
+    "keywords": ["it-beratung", "itil", "servicemanagement", "outsourcing", "restrukturierung", "Kostenoptimierung", "Webberatung"],
+    "profiles": {
+        "gravatar": "guenter.stein@copasco.de",
+        "xing": "http://www.xing.com/profile/Guenter_Stein",
+        "twitter": "https://twitter.com/nxi0050",
+        "google+": "",
+        "facebook": "https://www.facebook.com/guenter.stein",
+        "linkedin": "http://de.linkedin.com/pub/dir/Günter/Stein"
+    }
+}

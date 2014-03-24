@@ -1,0 +1,12 @@
+{
+    "name": "Dennis Herzog",
+    "title": "Art Direction und Buntes",
+    "email": "dennis@derherzog.com",
+    "phone": "0176 20 61 35 30",
+    "website": "http://www.derherzog.com",
+    "city": ["Frankfurt", "Wiesbaden", "Offenbach"],
+    "keywords": ["Grafik", "Design", "Art Direction", "tester"],
+    "profiles": {
+        "tumblr": "http://whatswrongwheneverythingisok.tumblr.com"
+    }
+}
