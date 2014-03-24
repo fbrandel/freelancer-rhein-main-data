@@ -1,0 +1,26 @@
+{
+    "name": "Prof. Dr. Holger Zinn",
+    "title": "Strategische Marketingberatung",
+    "email": "hz@holgerzinn.de",
+    "phone": "0172 812 83 98",
+    "website": "http://www.holgerzinn.de",
+    "city": ["Wiesbaden", "Frankfurt", "Offenbach", "Darmstadt", "Mainz", "Aschaffenburg"],
+    "keywords": ["Marketing", "Marktforschung", "Strategieberatung"],
+    "profiles": {
+        "gravatar": "hz@holgerzinn.de",
+        "xing": "https://www.xing.com/profiles/Holger_Zinn",
+        "twitter": "https://twitter.com/holgerzinn",
+        "google+": "https://plus.google.com/u/0/104217624154673882180/posts",
+        "facebook": "https://www.facebook.com/holger.zinn",
+        "linkedin": "http://www.linkedin.com/pub/holger-zinn/0/380/bb7",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}

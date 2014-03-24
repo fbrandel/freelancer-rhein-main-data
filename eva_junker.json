@@ -1,0 +1,16 @@
+{
+    "name": "Eva Junker",
+    "title": "Konzept und Gestaltung von Grafik und Bewegtbild",
+    "email": "mail@evejay.de",
+    "phone": "0179 4330929",
+    "website": "http://www.evejay.de",
+    "city": ["Frankfurt", "Offenbach"],
+    "keywords": ["Konzept", "Grafik", "Ideenberatung", "Illustration"],
+    "profiles": {
+        "gravatar": "eve.jay@gmail.com",
+        "xing": "http://www.xing.com/profile/Eva_Junker",
+        "twitter": "http://www.twitter.com/evejaydesign",
+        "google+": "",
+        "facebook": "http://www.facebook.de/evejaydesign"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Christian Müller",
+    "title": "Softwareentwicklung Backend",
+    "email": "ChristianMueller@gmx.org",
+    "phone": "",
+    "website": "",
+    "city": ["Bad Vilbel", "Frankfurt", "Darmstadt", "Mainz", "Wiesbaden"],
+    "keywords": ["Java", "PHP", "Zend", "MySQL", "Oracle", "SQL", "Entwicklung", "Scrum", "Backend", "Hibernate", "Spring"],
+    "profiles": {
+        "gravatar": "ChristianMueller@gmx.org",
+        "xing": "https://www.xing.com/profiles/Christian_Mueller222"
+    }
+}

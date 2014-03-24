@@ -1,0 +1,26 @@
+{
+    "name": "Sascha Held",
+    "title": "iOS / Android und Ruby/Rails Entwicklung",
+    "email": "appenetic@icloud.com",
+    "phone": "+49 151 64513755",
+    "website": "http://www.appenetic.de",
+    "city": ["Frankfurt", "Darmstadt", "Mainz", "Wiesbaden"],
+    "keywords": ["iOS", "Android", "ruby", "rails", "mobile", "java", "Entwicklung"],
+    "profiles": {
+        "gravatar": "SaschaHeld@me.com",
+        "xing": "https://www.xing.com/profile/Sascha_Held3",
+        "twitter": "https://twitter.com/appenetic",
+        "google+": "",
+        "facebook": "https://www.facebook.com/sascha.held.54",
+        "linkedin": "http://www.linkedin.com/pub/sascha-held/67/457/530",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}

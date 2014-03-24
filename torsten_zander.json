@@ -1,0 +1,23 @@
+{
+    "name": "Torsten Zander",
+    "title": "Web-Entwickler",
+    "email": "info@tzander.de",
+    "phone": "0611 1747870",
+    "website": "http://www.tzander.de/",
+    "city": ["Wiesbaden", "Mainz", "Frankfurt"],
+    "keywords": ["Php", "Symfony", "Zend", "Mysql","Doctrine", "Propel", "ContinousIntegration", "TestDrivenDevelopment", "Selenium", "jQuery" ],
+    "profiles": {
+        "gravatar": "",
+        "xing": "https://www.xing.com/profile/Torsten_Zander2",
+        "twitter": "https://twitter.com/torstenzander",
+        "google+": "https://plus.google.com/108769813360215301746",
+        "linkedin": "http://de.linkedin.com/in/torstenzander",
+        "github": "https://github.com/torstenzander",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}

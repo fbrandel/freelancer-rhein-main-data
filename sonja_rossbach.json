@@ -1,0 +1,16 @@
+{
+    "name": "Sonja Roßbach",
+    "title": "Tablet Publishing / Usability Engineer",
+    "email": "info@halberschmidt.com",
+    "phone": "0172 6 376 546",
+    "website": "http://www.halberschmidt.com",
+    "city": ["Wiesbaden", "Mainz", "Frankfurt"],
+    "keywords": ["Mediengestalter", "Medieninformatiker", "Tablet", "Usability", "User Experience", "Design", "iOS", "Android", "Mobile", "Projektmanagement", "Konzeption"],
+    "profiles": {
+        "gravatar": "info@halberschmidt.com",
+        "xing": "http://www.xing.com/profile/Sonja_Halberschmidt",
+        "twitter": "http://twitter.com/TabPubNet",
+        "linkedin": "http://de.linkedin.com/pub/sonja-halberschmidt/58/43/abb",
+        "gulp": "http://www.gulp.de/Profil/SonjaHalberschmidt.html"
+    }
+}

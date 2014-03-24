@@ -1,0 +1,32 @@
+{
+   "name":"Philip Krug",
+   "title":"Beratung",
+   "email":"mail@exponent-c.de",
+   "phone":"+49-69-747343-42",
+   "website":"http://www.exponent-c.de",
+   "city":[
+      "Frankfurt",
+      "Mainz",
+      "Wiesbaden",
+      "Offenbach",
+      "Darmstadt"
+   ],
+   "keywords":[
+      "Interim-Management",
+      "Projekt-Management",
+      "Conversion-Optimierung",
+      "Tracking-Analyse",
+      "Internationalisierung",
+      "Internet-Marketing",
+      "Online-Marketing",
+      "eCommerce",
+      "KPI"
+   ],
+   "profiles":{
+      "gravatar":"philip.krug@googlemail.com",
+      "xing":"http://www.xing.com/profile/Philip_Krug",
+      "twitter":"https://twitter.com/philipkrug",
+      "google+":"https://plus.google.com/117441950443724170579",
+      "linkedin":"http://de.linkedin.com/pub/philip-krug/b/18a/175"
+   }
+}

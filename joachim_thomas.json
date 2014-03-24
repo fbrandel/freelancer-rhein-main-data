@@ -1,0 +1,13 @@
+{
+    "name": "Joachim Thomas",
+    "title": "Texter. Werbetexter. Journalist.",
+    "email": "info@text-konzept.com",
+    "phone": "06122 704879",
+    "website": "http://www.text-konzept.com",
+    "city": ["Wiesbaden"],
+    "keywords": ["Texter", "Werbetexter", "Texte", "Werbetexte"],
+    "profiles": {
+        "gravatar": "info@text-konzept.com",
+        "facebook": "http://www.facebook.com/textpluskonzept"
+    }
+}

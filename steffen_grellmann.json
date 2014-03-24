@@ -1,0 +1,26 @@
+{
+    "name": "Steffen Grellmann",
+    "title": "Softwareentwickler, Netzwerkadministrator",
+    "email": "steffen.grellmann@t-online.de",
+    "phone": "0611 3757820",
+    "website": "http://www.steffen-grellmann.de",
+    "city": ["Wiesbaden", "Frankfurt", "Mainz"],
+    "keywords": ["Typo3", "Netzwerkadministrator", "Netzwerkadministration", "IT-Beratung", "VBA", "Access", "Access-Datenbank", "Office-AddIns"],
+    "profiles": {
+        "gravatar": "steffen.grellmann@t-online.de",
+        "xing": "http://www.xing.com/profile/steffen_grellmann",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}

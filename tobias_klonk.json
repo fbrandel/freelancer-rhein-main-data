@@ -1,0 +1,15 @@
+{
+    "name": "Tobias Klonk",
+    "title": "Software Developer",
+    "email": "me@tonklon.com",
+    "phone": "06192 470 1191",
+    "city": ["Hofheim", "Frankfurt", "Wiesbaden", "Offenbach", "Darmstadt"],
+    "keywords": ["iOS", "iPhone", "iPad", "Mac", "Cocoa", "Objective-C", "Rails", "Ruby", "agile", "TDD"],
+    "profiles": {
+        "gravatar": "me@tonklon.com",
+        "xing": "http://xing.to/tonklon",
+        "twitter": "http://twitter.com/tonklon",
+        "github": "https://github.com/tonklon",
+        "stackoverflow": "http://stackoverflow.com/users/382190/tonklon"
+    }
+}

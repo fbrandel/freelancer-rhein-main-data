@@ -1,0 +1,15 @@
+{
+	"name": "Dimitri Wolinski",
+	"title": "Web-Entwickler, technischer Projektleiter",
+	"email": "info@cmsystem.de",
+	"phone": "0178 138 22 76",
+	"website": "http://www.cmsystem.de",
+	"city": ["Frankfurt", "Wiesbaden", "Mainz", "Bingen"],
+	"keywords": ["php", "zend framework", "mysql", "nosql", "drupal", "typo3", "modx", "e-commerce", "webshop", "shopware", "xtcommerce","veyton", "magento"],
+	"profiles": {
+		"xing": "http://www.xing.com/profile/Dimitri_Wolinski",
+		"linkedin": "http://www.linkedin.com/pub/dimitri-wolinski/21/20/671",
+		"gulp": "http://www.gulp.de/Profil/dimitri.wolinski.html",
+		"freelance": "https://www.freelance.de/Freiberufler/Wolinski_Webentwickler_Mainz"
+	}
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Thomas Fahle",
+    "title": "Linux Engineer",
+    "email": "info@thomas-fahle.de",
+    "phone": "0174 890 4115",
+    "website": "http://www.thomas-fahle.de",
+    "city": ["Frankfurt", "Darmstadt", "Fulda", "Kassel", "Offenbach", "Hanau"],
+    "keywords": ["Linux", "Perl", "Systemadministration", "Configuration Management", "RedHat", "CentOS", "Ubuntu", "High Availability", "DRBD", "Heartbeat", "Datenbanken", "MySQL", "Monitoring", "SNMP", "Nagios", "Munin", "Virtualisierung", "KVM", "Open Source"],
+    "profiles": {
+        "gravatar": "",
+        "xing": "https://www.xing.com/profile/Thomas_Fahle",
+        "twitter": "https://twitter.com/thomasfahle",
+        "google+": "https://plus.google.com/111148353637905281670/about",
+        "facebook": "",
+        "linkedin": "https://www.linkedin.com/in/thomasfahle",
+        "github": "https://github.com/tomfahle",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "http://www.slideshare.net/thomasfahle",
+        "pinboard": ""
+    }
+}

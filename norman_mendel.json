@@ -1,0 +1,23 @@
+{
+    "name": "Norman Mendel",
+    "title": "Consultant und Senior Developer für Microsoft Technologien",
+    "email": "norman.mendel@googlemail.com",
+    "phone": "0174 41 060 32",
+    "website": "",
+    "city": ["Darmstadt", "Wiesbaden", "Mainz", "Frankfurt"],
+    "keywords": [".NET", "dotNet", "C#", "Team Foundation Server TFS", "Application Lifecycle Management ALM","Continuous Integration CI", "Scrum", "Agile", "TDD", "Clean Code", "Architektur", "Architekt", "Softwarequalität", "SOA", "Service Orientierung","verteilte Systeme", "Technische Projektleitung","Blick über den Tellerrand"],
+    "profiles": {
+        "gravatar": "",
+        "xing": "https://www.xing.com/profile/Norman_Mendel",
+        "twitter": "https://twitter.com/N0_M3",
+        "google+": "https://plus.google.com/112897123682825858895",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "http://www.slideshare.net/normanmendel1"
+    }
+}

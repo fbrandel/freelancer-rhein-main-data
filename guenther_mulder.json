@@ -1,0 +1,23 @@
+{
+    "name": "Günther Mulder",
+    "title": "Informationsarchitektur und User Experience Design",
+    "email": "mail@gmulder.de",
+    "phone": "",
+    "website": "http://gmulder.de",
+    "city": ["Mainz", "Wiesbaden", "Frankfurt", "Darmstadt"],
+    "keywords": ["UX", "User Experience", "Usability", "User Research", "IA", "Informationsarchitektur", "Informationarchitecture"],
+    "profiles": {
+        "gravatar": "mail@gmulder.de",
+        "xing": "http://xing.to/gmulder",
+        "twitter": "http://twitter.com/gmulder",
+        "google+": "https://plus.google.com/u/0/112650314438543098831/posts",
+        "linkedin": "http://www.linkedin.com/in/guenthermulder",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}

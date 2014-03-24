@@ -1,0 +1,16 @@
+{
+    "name": "Martin Funk",
+    "title": "Software Professional",
+    "email": "martin@martinfunk.de",
+    "phone": "+49 179 2029245",
+    "city": ["Wiesbaden", "Mainz", "Frankfurt"],
+    "keywords": ["Java", "Wicket", "Maven", "Eclipse", "git", "SCJP", "SCWCD", "LPIC-1"],
+    "profiles": {
+        "gravatar": "martin@martinfunk.de",
+        "xing": "https://www.xing.com/profiles/Martin_Funk",
+        "twitter": "https://twitter.com/funkattack",
+        "google+": "https://plus.google.com/114578984708654299930",
+        "linkedin": "http://de.linkedin.com/in/martinfunk",
+        "github": "https://github.com/mafulafunk"
+    }
+}

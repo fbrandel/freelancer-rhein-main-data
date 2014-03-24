@@ -1,0 +1,26 @@
+{
+    "name": "Raphael Rychetsky",
+    "title": "Design & Webdevelopment",
+    "email": "mail@raphael-rychetsky.de",
+    "phone": "0160 1560550",
+    "website": "http://www.raphael-rychetsky.de",
+    "city": ["Offenbach", "Frankfurt"],
+    "keywords": ["html", "css", "javascript", "frontend", "scss", "design", "cms", "contao", "wordpress"],
+    "profiles": {
+        "gravatar": "rychetsky@me.com",
+        "xing": "https://www.xing.com/profiles/Raphael_Rychetsky",
+        "twitter": "http://twitter.com/herzflimmern",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "https://github.com/Rychetsky",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
