@@ -1,0 +1,24 @@
+{
+    "name": "Johanna Emge",
+    "title": "Online-Journalistin",
+    "email": "johanna.emge@gmx.de",
+    "city": ["Frankfurt"],
+    "keywords": ["Online-Redaktion", "Text", "Social Media", "Community Management"],
+    "profiles": {
+        "gravatar": "johanna.emge@gmx.de",
+        "xing": "https://www.xing.com/profile/Johanna_Emge",
+        "twitter": "http://twitter.com/bommeljogi",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
