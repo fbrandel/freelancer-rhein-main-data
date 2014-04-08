@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Herbert",
+    "title": "Software Engineer",
+    "email": "benjamin@herbert.cc",
+    "phone": "",
+    "website": "http://www.herbert.cc",
+    "city": ["Frankfurt"],
+    "keywords": ["java", "entwicklung", "entwickler", "release management", "build management", "maven" , "continuous integration", "test driven development", "tdd", "continuous delivery"],
+    "profiles": {
+        "gravatar": "benjamin@herbert.cc",
+        "xing": "https://www.xing.com/profile/Benjamin_Herbert2",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "https://stackoverflow.com/users/1153530/behe",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}
