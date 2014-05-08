@@ -1,0 +1,26 @@
+{
+    "name": "Daniel Flick",
+    "title": "Wordpress/HTML5 - Entwickler",
+    "email": "info@dflick-it.de",
+    "phone": "0176 89499453",
+    "website": "http://www.dflick-it.de",
+    "city": ["Frankfurt", "Offenbach", "Kelkheim", "Hofheim", "Bad Soden", "Sulzbach", "Königstein"],
+    "keywords": ["testing", "qualitätssicherung", "qa", "tester", "homepage", "wordpress", "css3", "html5", "webdesign", "webdesigner", "webentwickler"],
+    "profiles": {
+        "gravatar": "",
+        "xing": "https://www.xing.com/profile/Daniel_Flick4",
+        "twitter": "https://twitter.com/ph1ick0",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
