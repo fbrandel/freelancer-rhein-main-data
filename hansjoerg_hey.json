@@ -1,0 +1,50 @@
+{
+    "name": "Hans Jörg Hey",
+
+    "title": "Grafik Design",
+
+    "email": "mein-service@dein-druck-auftrag.de",
+
+    "phone": "06124 6054000",
+
+    "website": "http://www.dein-druck-auftrag.de",
+
+    "city": ["Frankfurt", "Offenbach", "Bad Schwalbach", "Wiesbaden", "Mainz", "Darmstadt", "Taunusstein", "Idstein"],
+
+    "keywords": ["Logo-Design", "Visitenkarten", "Vektorgrafik", "Speisenkarten", "Briefpapier", "Inserate", "Broschüren", "Plakate", "Eintrittskarten", "Festschriften", "T-Shirt-Design", "Druckvorstufe", "Kalender", "Kataloge", "PVC-Planen", "Werbebanner", "Fotonachbearbeitung", "Klebefolien"],
+
+    "profiles": {
+
+        "gravatar": "",
+
+        "xing": "",
+
+        "twitter": "",
+
+        "google+": "",
+
+        "facebook": "",
+
+        "linkedin": "",
+
+        "github": "",
+
+        "stackoverflow": "",
+
+        "aboutme": "",
+
+        "tumblr": "",
+
+        "500px": "",
+
+        "behance": "",
+
+        "flickr": "",
+
+        "slideshare": "",
+
+        "pinboard": ""
+
+    }
+
+}
