@@ -4,7 +4,7 @@
     "email": "niko@n-k.de",
     "phone": "0172 67 14 839",
     "website": "http://www.n-k.de",
-    "city": ["Frankfurt", "Offenbach", "Mainz", "Wiesbaden", "Darmstadt", "Rhein-Main-Gebiet"],
+    "city": ["Frankfurt", "Offenbach", "Mainz", "Wiesbaden", "Darmstadt"],
     "keywords": ["java", "javascript", "software", "architect", "developer", "entwickler", "nodejs", "meteor", "avatar", "jquery", "angularjs", "html5", "spring", "hibernate", "java ee", "oracle", "soa", "web service", "webservice", "soap", "eai", "enterprise integration", "integration", "jms", "messaging", "beratung", "consulting", "xml"],
     "profiles": {
         "gravatar": "niko@n-k.de",
