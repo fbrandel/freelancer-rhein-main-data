@@ -1,9 +1,9 @@
 {
     "name": "Martin Kliehm",
-    "title": "Frontend-Entwicklung, Web Development, Barrierefreiheit",
+    "title": "Web Development, Barrierefreiheit",
     "email": "martin@kliehm.com",
     "website": "http://kliehm.com",
-    "city": ["Frankfurt"],
+    "city": ["Frankfurt","Offenbach","Darmstadt","Wiesbaden","Mainz","Hanau"],
     "keywords": ["Web Development", "Accessibility", "Usability", "Barrierefreiheit", "Design for All", "eAccessibility", "One Web", "Mobile Web", "DOM Scripting", "JavaScript", "jQuery", "AJAX", "JSON", "REST", "HTML", "HTML5", "XHTML", "PHP", "WCAG", "BITV", "ARIA", "XML", "XSL", "XSLT", "XPath", "CSS", "CSS3", "CSS 3", "Microformats", "Mashups", "Web Performance Optimierung", "WPO", "Browser APIs", "Open Data", "Open Access", "Open Government", "eGovernment", "Ubiquitous Web", "UbiWeb", "Semantic Web", "Progressive Enhancement", "Unobtrusive JavaScript", "CSS Sprites", "Sliding Doors", "Responsive", "Vorträge", "Consulting", "Entwicklung", "Development", "Entwickler", "Developer", "Web Developer", "Web Entwickler", "Frontend", "Webstandards", "W3C"],
     "profiles": {
         "gravatar": "martin@kliehm.com",
@@ -12,7 +12,6 @@
         "google+": "https://plus.google.com/103503284832145064106",
         "facebook": "http://facebook.com/kliehm",
         "linkedin": "http://www.linkedin.com/in/kliehm",
-        "github": "https://github.com/kliehm",
         "flickr": "http://www.flickr.com/people/martin-kliehm/",
         "slideshare": "http://slideshare.com/kliehm",
         "lanyrd": "http://lanyrd.com/people/kliehm/"
