@@ -1,0 +1,15 @@
+{
+    "name": "Dr.-Ing. Michael Hartle",
+    "title": "Software-Architekt und -Entwickler unter Java & C#",
+    "email": "",
+    "phone": "",
+    "website": "http://www.hartle-klug.com",
+    "city": ["Frankfurt", "Darmstadt"],
+    "keywords": ["isaqb", "cpsa", "architecture", "entwickler", "java", "c#", "rest", "hateoas", "middleware", "open source", "continuous integration", "continuous delivery"],
+    "profiles": {
+        "gravatar": "mhartle@hartle-klug.com",
+        "xing": "http://www.xing.com/profile/Michael_Hartle",
+        "twitter": "https://twitter.com/m_hartle",
+        "linkedin": "http://de.linkedin.com/in/mhartle"
+    }
+}
