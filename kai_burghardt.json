@@ -1,0 +1,26 @@
+{
+    "name": "Kai Burghardt",
+    "title": "Android / iOS Developer",
+    "email": "kai@kajosoftware.de",
+    "phone": "+49 171 53 86 193",
+    "website": "http://www.kajosoftware.de",
+    "city": ["Frankfurt", "Bad Homburg", "Friedrichsdorf"],
+    "keywords": ["android", "ios", "development", "webservices", "google app engine", "amazon web services"],
+    "profiles": {
+        "gravatar": "kai@kajosoftware.de",
+        "xing": "https://www.xing.com/profile/Kai_Burghardt2",
+        "twitter": "http://twitter.com/kaiburghardt",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "http://stackoverflow.com/users/1978096/kai-burghardt",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
