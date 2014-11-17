@@ -1,0 +1,26 @@
+{
+	"name": "Felix Nagel",
+	"title": "Webentwickler (TYPO3, Symfony2, jQuery)",
+	"email": "info@felixnagel.com",
+	"phone": "0171 19 80 16 7",
+	"website": "http://www.felixnagel.com",
+	"city": ["Mainz", "Wiesbaden", "Frankfurt", "Rheingau"],
+	"keywords": ["HTML5", "CSS3", "LESS", "SASS", "RWD", "Repsonsive Webdesign", "Java-Script", "jQuery", "MooTools", "Grunt", "AMD", "Backend", "PHP", "Symfony2", "TYPO3", "TYPO3 CMS", "TYPO3 NEOS", "TYPO3 Flow", "Silex", "SQL", "MySQL", "Doctrine ORM", "LAMP", "Oracle VM", "Vagrant", "Puppet", "Git", "SVN", "PHPUnit", "Xdebug", "CodeSniffer", "MessDetector", "PHPStorm", "Adobe Photoshop", "Illustrator", "InDesign" ],
+	"profiles": {
+		"gravatar": "business@felixnagel.com",
+		"xing": "http://xing.to/felixnagel",
+		"twitter": "http://twitter.com/felixnagel",
+		"google+": "",
+		"facebook": "",
+		"linkedin": "",
+		"github": "https://github.com/fnagel",
+		"stackoverflow": "",
+		"aboutme": "",
+		"tumblr": "",
+		"500px": "",
+		"behance": "",
+		"flickr": "",
+		"slideshare": "",
+		"pinboard": ""
+	}
+}
