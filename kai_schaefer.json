@@ -1,0 +1,25 @@
+{
+    "name": "Kai Schäfer",
+    "title": "iOS Developer",
+    "email": "kai.j.schaefer@gmx.net",
+    "phone": "0170 2909107",
+    "city": ["Wiesbaden","Mainz","Darmstadt","Frankfurt"],
+    "keywords": ["iOS", "iPhone", "iPad", "iPod", "watch","Objective-C","Swift","App Entwicklung"],
+    "profiles": {
+        "gravatar": "kai.j.schaefer@gmx.net",
+        "xing": "https://www.xing.com/profile/Kai_Schaefer41",
+        "twitter": "https://twitter.com/kai_schaefer",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
