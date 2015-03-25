@@ -1,0 +1,26 @@
+{
+    "name": "Annette Schindler",
+    "title": "Grafikdesign",
+    "email": "as@grafikdesign-schindler.de",
+    "phone": "069 80108900",
+    "website": "http://www.grafikdesign-schindler.de",
+    "city": ["Frankfurt", "Offenbach", "Wiesbaden", "Mainz", "Hanau", "Darmstadt"],
+    "keywords": ["Grafikdesign", "Grafik", "Design", "Webdesign", "Corporate Design", "Logoentwicklung"],
+    "profiles": {
+        "gravatar": "",
+        "xing": "http://xing.com/Annette_Schindler",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "http://de.slideshare.net/nogoldfish/no-goldfish",
+        "pinboard": ""
+    }
+}
