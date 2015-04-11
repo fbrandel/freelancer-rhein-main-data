@@ -1,0 +1,13 @@
+{
+    "name": "Juergen Eichholz",
+    "title": "water, sanitation & IT",
+    "email": "info@saniblog.org",
+    "phone": "+49-69-17320675",
+    "website": "http://www.saniblog.org",
+    "city": ["Frankfurt"],
+    "keywords": ["water", "sanitation", "hygiene", "WASH", "newsletter"],
+    "profiles": {
+        "gravatar": "info@saniblog.org",
+        "xing": "https://www.xing.com/profile/Juergen_Eichholz",
+    }
+}
