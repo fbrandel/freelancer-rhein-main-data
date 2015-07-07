@@ -4,8 +4,8 @@
     "email": "hello@dflick-it.de",
     "phone": "0176 89499453",
     "website": "http://www.dflick-it.de",
-    "city": ["Rhein-Main", "Frankfurt", "Offenbach", "Kelkheim", "Hofheim", "Bad Soden", "Sulzbach", "Königstein"],
-    "keywords": ["wordpress", "webdesign", "webdesigner", "webentwickler", "php", "mysql", "tester", "homepage", "testing", "css3", "html5", ],
+    "city": ["Frankfurt", "Offenbach", "Kelkheim", "Hofheim", "Bad Soden", "Sulzbach", "Königstein"],
+    "keywords": ["wordpress", "webdesign", "webdesigner", "webentwickler", "coder", "php", "mysql", "tester", "homepage", "testing", "css3", "html5"],
     "profiles": {
         "gravatar": "",
         "xing": "https://www.xing.com/profile/Daniel_Flick4",
