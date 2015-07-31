@@ -1,0 +1,26 @@
+{
+    "name": "Julia Wagner",
+    "title": "Eventmanagement",
+    "email": "mail@juliawagner.de",
+    "phone": "0176 329 627 65",
+    "website": "",
+    "city": ["Frankfurt", "Wiesbaden", "Mainz"],
+    "keywords": ["event", "messe", "kongress", "corporate event"],
+    "profiles": {
+        "gravatar": "mail@juliawagner.de",
+        "xing": "https://www.xing.com/profile/Julia_Wagner131?sc_o=mxb_p",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "https://www.linkedin.com/profile/view?id=410761414&trk=nav_responsive_tab_profile",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
