@@ -1,0 +1,29 @@
+{
+  "name": "Christin Berndt",
+  "title": "Kommunikationsberaterin",
+  "email": "info@commnect.de",
+  "phone": "0174 1234 567",
+  "website": "http://www.commnect.de",
+  "city": ["Neu-Anspach", "Bad Homburg", "Frankfurt am Main"],
+  "keywords": ["digitale kommunikation", "cms webdesign",
+    "social media marketing", "online marketing",
+    "visuelle kommunikation"
+  ],
+  "profiles": {
+    "gravatar": "info@commnect.de",
+    "xing": "https://www.xing.com/profile/Christin_Berndt3",
+    "twitter": "",
+    "google+": "https://plus.google.com/u/0/b/114526463808607337284/+CommnectNeuAnspach/posts",
+    "facebook": "https://www.facebook.com/commnect",
+    "linkedin": "",
+    "github": "",
+    "stackoverflow": "",
+    "aboutme": "",
+    "tumblr": "",
+    "500px": "",
+    "behance": "",
+    "flickr": "",
+    "slideshare": "",
+    "pinboard": ""
+  }
+}
