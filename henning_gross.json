@@ -1,0 +1,27 @@
+{
+    "name": "Henning Gross",
+    "title": "Software-Entwickler",
+    "email": "mail.to@henning-gross.de",
+    "phone": "",
+    "website": "http://henning-gross.de",
+    "city": ["Mainz", "Wiesbaden"],
+    "keywords": ["java", "python", "oop", "backend", "frontend", "web", "mobile", "android", "ios", "cordova", "phonegap", "html", "javascript", "css", "scss", "jquery", "javaee", "ejb", "jsf", "sql", "jpa", "svm", "javascript", "c", "php", "django", "jax-rs", "Qt", "jquery mobile", "propel", "extjs"],
+    "profiles": {
+        "gravatar": "kontakt@henning-gross.de",
+        "xing": "https://www.xing.com/profile/Henning_Gross5",
+        "twitter": "https://twitter.com/h_gross",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "https://github.com/hgross",
+        "bitbucket": "https://bitbucket.org/henna/profile/repositories",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
