@@ -1,16 +1,15 @@
 {
     "name": "David Lambauer",
-    "title": "Webdesign & Development",
+    "title": "Certified Magento Developer Plus",
     "email": "hello@robots-media.de",
     "phone": "0176 66 890 102",
     "website": "http://www.robots-media.de",
-    "city": ["Frankfurt", "Offenbach", "Mainz", "Wiesbaden", "Rüdesheim"],
-    "keywords": ["html5", "css3", "wordpress", "Webdesign","jQuery","Magento","PHP"],
+    "city": ["Frankfurt", "Offenbach", "Mainz", "Wiesbaden", "Darmstadt"],
+    "keywords": ["html","css","Webdesign","jQuery","Magento","PHP", "Software Architektur"],
     "profiles": {
         "gravatar": "mail@davidlambauer.de",
         "xing": "https://www.xing.com/profile/David_Lambauer?sc_o=mxb_p",
-        "twitter": "https://twitter.com/RobotsMedia",
-        "facebook": "https://www.facebook.com/DavidLambauerBlog?ref=hl",
+        "twitter": "https://twitter.com/DavidLambauer",
         "github": "https://github.com/DavidLambauer"
     }
 }
