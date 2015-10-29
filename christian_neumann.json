@@ -1,0 +1,15 @@
+{
+    "name": "Christian Neumann",
+    "title": "Wordpress-Entwicklung",
+    "email": "info@e3code.de",
+    "phone": "069 17 32 68 11 0",
+    "website": "http://www.e3code.de",
+    "city": ["Frankfurt", "Offenbach", "Wiesbaden", "Mainz", "Darmstadt"],
+    "keywords": ["wordpress", "webshop", "ecommerce", "programmierer", "entwickler", "css", "html", "go", "php", "woocommerce", "oxid"],
+    "profiles": {
+        "xing": "http://www.xing.com/profile/Christian_Neumann78",
+        "twitter": "http://www.twitter.com/e3code",
+        "facebook": "http://www.facebook.com/e3code",
+        "github": "http://www.github.com/chrneumann",
+    }
+}
