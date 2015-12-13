@@ -1,0 +1,26 @@
+{
+    "name": "Rafi Islam",
+    "title": "Web Developer",
+    "email": "ri@jeromina.com",
+    "phone": "0176 84388816",
+    "website": "http://www.jeromina.com",
+    "city": ["Frankfurt", "Offenbach","Wiesbaden", "Mainz", "Darmstadt","Hanau"],
+    "keywords": ["php", "oop", "zend", "angular","spring mvc","javascript","responsive web","agile","scrum","online marketing","html","git"],
+    "profiles": {
+        "gravatar": "ri@jeromina.com",
+        "xing": "https://www.xing.com/profile/Rafi_Islam",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "https://de.linkedin.com/in/rafi-islam-17b22221",
+        "github": "https://github.com/rislam",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
