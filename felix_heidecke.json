@@ -1,15 +1,14 @@
 {
     "name": "Felix Heidecke",
     "title": "Konzept, Design & Code",
-    "email": "felix@3lc.me",
+    "email": "felix@heidecke.me",
     "phone": "069 25712204",
-    "website": "http://3lc.me",
+    "website": "http://felix.heidecke.me",
     "city": ["Frankfurt", "Wiesbaden"],
     "keywords": ["UI/UX", "Konzeption", "Web-Design", "Web-Entwicklung", "Frontend", "Backend", "HTML", "CSS", "JavaScript", "PHP", "MySQL"],
     "profiles": {
         "gravatar": "felix@heidecke.me",
         "xing": "https://www.xing.com/profile/Felix_Heidecke",
-        "twitter": "https://twitter.com/EineTorteBitte",
         "facebook": "https://www.facebook.com/felix.3lc.me"
     }
 }
