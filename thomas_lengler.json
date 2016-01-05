@@ -1,0 +1,26 @@
+{
+	"name": "Thomas Lengler",
+	"title": "Web Entwickler",
+	"email": "jobs@einszuzwei.de",
+	"phone": "06032 9281866",
+	"website": "http://www.einszuzwei.de",
+	"city": ["Frankfurt", "Bad Nauheim"],
+	"keywords": ["PHP", "Frontend", "Backend", "Javascript", "Zend Framework", "jQuery", "MySQL", "HTML5", "webdeveloper"],
+	"profiles": {
+		"gravatar": "jobs@einszuzwei.de",
+		"xing": "https://www.xing.com/profile/Thomas_Lengler2",
+		"twitter": "",
+		"google+": "",
+		"facebook": "",
+		"linkedin": "",
+		"github": "",
+		"stackoverflow": "",
+		"aboutme": "",
+		"tumblr": "",
+		"500px": "",
+		"behance": "",
+		"flickr": "",
+		"slideshare": "",
+		"pinboard": ""
+	}
+}
