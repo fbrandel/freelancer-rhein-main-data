@@ -1,0 +1,12 @@
+{
+    "name": "Marc Scherer",
+    "title": "TYPO3 & Frontend Freelancer",
+    "email": "mail@loewenstall.de",
+    "phone": "(0 61 24) 7 27 74 33",
+    "website": "http://www.loewenstall.de",
+    "city": ["Frankfurt", "Offenbach", "Wiesbaden", "Mainz", "Darmstadt"],
+    "keywords": ["typo3", "freelancer", "frontend", "jQuery", "AngularJS "],
+        "profiles": {
+            "gravatar": "mail@loewenstall.de"
+        }
+    }
