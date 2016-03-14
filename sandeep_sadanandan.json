@@ -1,0 +1,26 @@
+{
+    "name": "Sandeep Sadanandan",
+    "title": "Softwareentwicklung und Beratung",
+    "email": "consult@thecodeartist.de",
+    "phone": "",
+    "website": "http://thecodeartist.de",
+    "city": ["Mainz", "Frankfurt"],
+    "keywords": ["Ruby on Rails", "Go", "Golang", "Backend", "AWS", "AngularJS", "Agile", "Scrum", "Konzeption", "Lead Developer", "Mentoring", "Python"],
+    "profiles": {
+        "gravatar": "consult@thecodeartist.de",
+        "xing": "https://www.xing.com/profile/Sandeep_Sadanandan",
+        "twitter": "https://twitter.com/sadanandeep",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "https://de.linkedin.com/in/sandeepsadanandan",
+        "github": "https://github.com/sillyfellow",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
