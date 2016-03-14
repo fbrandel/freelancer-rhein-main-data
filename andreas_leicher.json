@@ -1,0 +1,26 @@
+{
+    "name": "Andreas Leicher",
+    "title": "Softwareentwikclung und Beratung",
+    "email": "email@andreasleicher.com",
+    "phone": "",
+    "website": "http://andreasleicher.com",
+    "city": ["Frankfurt"],
+    "keywords": ["Ruby on Rails", "Go", "interim CTO", "devops", "AWS", "AngularJS", "Agile", "Scrum", "Business Model Innovation"],
+    "profiles": {
+        "gravatar": "email@andreasleicher.com",
+        "xing": "https://www.xing.com/profile/Andreas_Leicher3",
+        "twitter": "https://twitter.com/andreasleicher",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "https://linkedin.com/in/andreasleicher",
+        "github": "https://github.com/aleicher",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
