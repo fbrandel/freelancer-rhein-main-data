@@ -1,0 +1,26 @@
+{
+    "name": "Ralf Lütke",
+    "title": "Senior Projektleiter & IT-Berater Webanwendungen",
+    "email": "r.luetke@dmr-solutions.com",
+    "phone": "0160 97342447",
+    "website": "http://www.luetke-consulting.de/",
+    "city": ["Wiesbaden", "Frankfurt", "Mainz", "Darmstadt", "Bad Homburg", "Hanau"],
+    "keywords": ["Projektmanagement", "Projektleitung", "Accountmanagement", "Webanwendung", "Webanwendungen", "Online", "Digital", "PHP", "HTML", "HTML5", "CSS", "CSS3", "App", "Mobile", "Javascript", "cross-plattform", "Architektur", "Technische Konzeption", "Machbarkeit", "IT-Lösungen", "Analyse", "Anforderungen", "Requirements", "Geschäftsprozess", "Prozess", "Workflow", "E-Commerce", "Beratung", "Laravel", "Zend", "agil"],
+    "profiles": {
+        "gravatar": "r.luetke@dmr-solutions.com",
+        "xing": "https://www.xing.com/profile/Ralf_Luetke",
+        "twitter": "https://twitter.com/dmrsolutions",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "http://de.slideshare.net/RalfLtke",
+        "pinboard": ""
+    }
+}
