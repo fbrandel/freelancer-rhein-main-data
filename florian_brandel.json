@@ -1,16 +1,15 @@
 {
     "name": "Florian Brandel",
-    "title": "Frontend Entwicklung (Mobile & Web)",
+    "title": "Agile Frontend Entwicklung",
     "email": "mail@fbrandel.de",
     "phone": "0170 186 33 67",
     "website": "http://www.fbrandel.de",
     "city": ["Wiesbaden", "Mainz"],
-    "keywords": ["frontend", "javascript", "html5", "css3", "jquery", "mobile", "sencha touch", "backbonejs", "nodejs", "sass"],
+    "keywords": ["frontend", "javascript", "html5", "css3", "test driven development", "mobile", "angularjs", "angular", "styleguide driven development", "nodejs", "sass", "scrum", "agil"],
     "profiles": {
         "gravatar": "fbrandel@fbrandel.de",
         "xing": "http://xing.to/fbrandel",
         "twitter": "http://twitter.com/fbrandel",
-        "google+": "https://plus.google.com/107599461629258089527?rel=author",
         "github": "https://github.com/fbrandel"
     }
 }
