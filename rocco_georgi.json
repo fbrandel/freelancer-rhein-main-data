@@ -5,7 +5,7 @@
     "phone": "+49 1577 180 54 25",
     "website": "http://www.roccogeorgi.com",
     "city": ["Frankfurt", "Darmstadt", "Wiesbaden", "Offenbach", "Mainz", "Hanau"],
-    "keywords": ["JavaScript", "HTML5", "CSS3", "PhoneGap", "Cordova", "Mobile", "Web", "jQuery Mobile", "node.js", "Git", "Gerrit"],
+    "keywords": ["JavaScript", "HTML5", "CSS3", "PhoneGap", "Cordova", "Ionic", "Angular", "Mobile", "Web", "node.js", "Git"],
     "profiles": {
         "gravatar": "rocco@pavingways.com",
         "xing": "https://www.xing.com/profile/Rocco_Georgi",
