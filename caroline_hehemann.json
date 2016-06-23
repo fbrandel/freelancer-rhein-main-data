@@ -1,0 +1,26 @@
+{
+    "name": "Caroline Hehemann",
+    "title": "WordPress-Entwickler",
+    "email": "service@web-hehemann.de",
+    "phone": "",
+    "website": "http://web-hehemann.de",
+    "city": ["Wiesbaden", "Frankfurt", "Offenbach"],
+    "keywords": ["web-entwickler", "wordpress", "programmierer", "front-end", "back-end"],
+    "profiles": {
+        "gravatar": "caroline.hehemann@gmail.com",
+        "xing": "",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
