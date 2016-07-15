@@ -4,11 +4,10 @@
     "email": "felix@heidecke.me",
     "phone": "069 25712204",
     "website": "http://felix.heidecke.me",
-    "city": ["Frankfurt", "Wiesbaden"],
-    "keywords": ["UI/UX", "Konzeption", "Web-Design", "Web-Entwicklung", "Frontend", "Backend", "HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+    "city": ["Frankfurt"],
+    "keywords": ["UI/UX", "Konzeption", "Web-Design", "Web-Entwicklung", "Frontend", "HTML5", "CSS3", "Sass", "Less", "JavaScript", "jQuery", "AJAX"],
     "profiles": {
         "gravatar": "felix@heidecke.me",
-        "xing": "https://www.xing.com/profile/Felix_Heidecke",
-        "facebook": "https://www.facebook.com/felix.3lc.me"
+        "xing": "https://www.xing.com/profile/Felix_Heidecke"
     }
 }
