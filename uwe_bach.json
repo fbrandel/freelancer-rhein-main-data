@@ -1,0 +1,12 @@
+{
+    "name": "Uwe Bach",
+    "title": "Konzeption & Art Direction",
+    "email": "mail@uwebach.com",
+    "phone": "06131 48 771 86",
+    "website": "http://www.uwebach.com",
+    "city": ["Wiesbaden", "Mainz", "Frankfurt", "Darmstadt"],
+    "keywords": ["konzept", "konzeption", "design", "art direction"],
+    "profiles": {
+        "gravatar": "mail@uwebach.com"
+    }
+}
