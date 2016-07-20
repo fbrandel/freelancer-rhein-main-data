@@ -1,0 +1,26 @@
+{
+    "name": "Wilson Campero",
+    "title": "Experte in Testmanagement und Testautomatisierung",
+    "email": "",
+    "phone": "",
+    "website": "http://www.campero.de",
+    "city": ["Frankfurt", "Rodgau"],
+    "keywords": ["testing", "qualitätssicherung", "qa", "tester","Testmanagement","Testautomatisierung", "ISTQB Certified Tester"],
+    "profiles": {
+        "gravatar": "wilson@campero.de",
+        "xing": "http://www.xing.com/profile/Wilson_Campero",
+        "twitter": "",
+        "google+": "https://plus.google.com/+WilsonCampero",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}

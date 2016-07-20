@@ -1,0 +1,23 @@
+{
+    "name": "Torben Toepper",
+    "title": "Software Engineer",
+    "email": "message@torbentoepper.de",
+    "website": "http://www.torbentoepper.de",
+    "city": ["Frankfurt", "Bad Homburg", "Wiesbaden"],
+    "keywords": [
+      "ruby on rails", "ruby", "rubymotion",
+      "coaching", "oop", "sql", "scrum", "html", "processing",
+      "webdesign", "xhtml", "rspec", "java", "redis", "xml",
+      "capistrano", "css", "ajax", "bdd", "webapplikationen",
+      "opengraph", "sass", "oauth2", "usability", "jquery",
+      "webentwicklung", "javascript", "resque", "git", "iphone",
+      "training", "clean code", "nodejs", "softwareentwicklung",
+      "rest", "json", "objective-c", "tdd", "webfonts", "refactoring"
+    ],
+    "profiles": {
+        "gravatar": "message@torbentoepper.de",
+        "xing": "http://xing.to/torben-toepper",
+        "twitter": "https://twitter.com/torben_tt",
+        "github": "https://github.com/torben"
+    }
+}

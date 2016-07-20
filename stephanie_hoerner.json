@@ -1,0 +1,30 @@
+{
+	"name": "Stephanie B. Hörner",
+	"title": "PR-Beraterin, Texterin",
+	"email": "sh@wortkleid-pr.de",
+	"phone": "0177 7833 344",
+	"website": "",
+	"city": ["Darmstadt", "Frankfurt", "Mainz", "Wiesbaden",
+		"Neu-Isenburg", "Groß-Gerau", "Offenbach"
+	],
+	"keywords": ["pr", "kommunikation", "texter", "konzeption",
+		"strategie", "Healthcare"
+	],
+	"profiles": {
+		"gravatar": "",
+		"xing": "http://xing.to/stephanie-b-hoerner",
+		"twitter": "", 
+		"google+": "",
+		"facebook": "",
+		"linkedin": "",
+		"github": "",
+		"stackoverflow": "",
+		"aboutme": "",
+		"tumblr": "",
+		"500px": "",
+		"behance": "",
+		"flickr": "",
+		"slideshare": "",
+		"pinboard": ""
+	}
+}

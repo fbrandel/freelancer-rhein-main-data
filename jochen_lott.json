@@ -1,0 +1,26 @@
+{
+    "name": "Jochen Lott",
+    "title": "Frontend Engineer",
+    "email": "mail@jochenlott.com",
+    "phone": "0170 6957146",
+    "website": "http://jochenlott.com",
+    "city": ["Frankfurt", "Wiesbaden", "Mainz"],
+    "keywords": ["frontend", "mobile", "responsive", "html5", "javascript", "konzept"],
+    "profiles": {
+        "gravatar": "gravatar@jochenlott.com",
+        "xing": "https://www.xing.com/profile/Jochen_Lott",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Christoph Schorr",
+    "title": "Web Application Developer",
+    "email": "c.schorr@alperion.de",
+    "phone": "+49 151 2121 8787",
+    "website": "http://www.alperion.de",
+    "city": ["Frankfurt", "Darmstadt", "Wiesbaden", "Offenbach", "Mainz", "Hanau"],
+    "keywords": ["PHP", "TYPO3", "Symfony", "Zend Framework", "JavaScript", "HTML5", "CSS3", "Web", "Git", "Gitlab"],
+    "profiles": {
+        "gravatar": "c.schorr@alperion.de",
+        "xing": "https://www.xing.com/profile/Christoph_Schorr",
+        "twitter": "https://twitter.com/cschorr",
+        "google+": "https://plus.google.com/+ChristophSchorr/about",
+        "linkedin": "http://de.linkedin.com/in/cschorr",
+        "github": "https://github.com/cschorr",
+        "stackoverflow": "http://stackoverflow.com/users/1081436/cschorr",
+        "aboutme": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "https://www.flickr.com/photos/cschorr",
+        "slideshare": "http://de.slideshare.net/cschorr"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Manuel Dudda",
+    "title": "Software-Entwickler",
+    "email": "manuel.dudda@gmail.com",
+    "phone": "0178 5837950",
+    "website": "http://manuel.dudda-und-dudda.de",
+    "city": ["Wiesbaden", "Frankfurt", "Mainz", "Idstein"],
+    "keywords": ["ruby on rails", "ruby", "rspec", "capistrano",
+      "jquery", "ajax", "json", "oop", "xml", "html", "css", "sass",
+      "sql", "git", "mongodb", "mongoid", "rest", "webapplikationen", 
+      "softwareentwicklung", "webentwicklung", "webdesign", "webdev",
+      "tdd", "bdd", "refactoring", "clean code"
+    ],
+    "profiles": {
+        "gravatar": "manuel.dudda@gmail.com",
+        "xing": "https://www.xing.com/profile/Manuel_Dudda",
+        "twitter": "https://twitter.com/ManuelDudda",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "https://github.com/manuel84",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}

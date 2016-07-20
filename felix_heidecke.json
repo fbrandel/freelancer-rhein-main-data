@@ -1,0 +1,13 @@
+{
+    "name": "Felix Heidecke",
+    "title": "Konzept, Design & Code",
+    "email": "felix@3lc.me",
+    "phone": "069 25712204",
+    "website": "http://felix.heidecke.me",
+    "city": ["Frankfurt", "Nürnberg"],
+    "keywords": ["UI/UX", "Konzeption", "Web-Design", "Web-Entwicklung", "Frontend", "HTML5", "CSS3", "Sass", "Less", "JavaScript", "jQuery", "AJAX"],
+    "profiles": {
+        "gravatar": "felix@heidecke.me",
+        "xing": "https://www.xing.com/profile/Felix_Heidecke"
+    }
+}

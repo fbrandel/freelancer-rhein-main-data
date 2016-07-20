@@ -1,0 +1,26 @@
+{
+    "name": "Oliver Perle",
+    "title": "Web Consulting, Management, Development",
+    "email": "perle@it-perle.de",
+    "phone": "0177 2427512",
+    "website": "http://www.it-perle.de",
+    "city": ["Frankfurt", "Wiesbaden", "Giessen"],
+    "keywords": ["project management", "web consulting", "web development", "webentwicklung"],
+    "profiles": {
+        "gravatar": "perle@it-perle.de",
+        "xing": "https://www.xing.com/profile/Oliver_Perle",
+        "twitter": "https://twitter.com/perlinger2005",
+        "google+": "https://plus.google.com/+OliverPerle/",
+        "facebook": "http://www.facebook.com/PerlenKoenig",
+        "linkedin": "http://www.linkedin.com/profile/view?id=138270857",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
