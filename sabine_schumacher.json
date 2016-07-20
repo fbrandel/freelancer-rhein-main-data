@@ -1,12 +1,25 @@
 {
     "name": "Sabine Schumacher",
-    "title": "Beratung & Konzeption Web, Mobile, E-Learning",
-    "email": "s.schumacher@learnblend.de",
-    "website": "http://www.learnblend.de",
-    "city": ["Frankfurt", "Wiesbaden", "Darmstadt", "Gießen"],
-    "keywords": ["E-Learning", "eLearning", "Konzeption", "Drehbuchautor", "Text", "Projektmanagement", "Redaktion", "Online-Redaktion", "Informationsarchitektur", "Content"],
+    "title": "Content-Strategie",
+    "email": "s.schumacher@online-text.de",
+    "phone": "+49 (0)6035-9036741",
+    "website": "http://www.online-text.de",
+    "city": ["Frankfurt", "Bad Nauheim"],
+    "keywords": ["Content-Strategie", "Inbound-Marketing", "Online-Redaktion", "Content", "Konzeption", "Text", "Social", "Blog"],
     "profiles": {
+        "gravatar": "s.schumacher@learnblend.de",
         "xing": "https://www.xing.com/profile/Sabine_Schumacher10",
-        "google+": "https://profiles.google.com/116911831913864480417"
+        "google+": "http://www.google.com/+Online-textDe",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
     }
 }

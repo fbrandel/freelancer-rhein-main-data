@@ -1,0 +1,26 @@
+{
+    "name": "Peter Walter",
+    "title": "Grafik-Design & Fotografie",
+    "email": "waltergrafik@yahoo.de",
+    "phone": "069 82363222",
+    "website": "http://www.waltergrafik.de",
+    "city": ["Frankfurt", "Offenbach"],
+    "keywords": ["grafiker", "designer", "fotograf", "webdesigner"],
+    "profiles": {
+        "gravatar": "waltergrafik@yahoo.de",
+        "xing": "https://www.xing.com/profile/Peter_Walter28?sc_o=mxb_p",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}

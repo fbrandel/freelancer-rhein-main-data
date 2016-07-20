@@ -1,0 +1,26 @@
+{
+    "name": "Frank Hamm",
+    "title": "Berater für Kommunikation und Kollaboration",
+    "email": "frank-hamm@frank-hamm.com",
+    "phone": "+49 151 2405 4553",
+    "website": "http://frank-hamm.com",
+    "city": ["Mainz", "Wiesbaden", "Darmstadt", "Frankfurt", "Selzen"],
+    "keywords": ["Social Business", "Enterprise 2.0", "Collaboration", "Social Collaboration", "Social Networking", "Social Software", "social software", "Public Relations", "Social Media", "Productivity"],
+    "profiles": {
+        "gravatar": "frank-hamm@frank-hamm.com",
+        "xing": "https://www.xing.com/profile/Frank_Hamm2",
+        "twitter": "http://twitter.com/fwhamm",
+        "google+": "https://plus.google.com/+FrankHamm",
+        "facebook": "https://www.facebook.com/frank.hamm",
+        "linkedin": "http://www.linkedin.com/in/frankhamm",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "http://www.dertaumler.de",
+        "500px": "",
+        "behance": "",
+        "flickr": "http://www.flickr.com/photos/injelea/",
+        "slideshare": "http://www.slideshare.net/frank.hamm",
+        "pinboard": "https://pinboard.in/u:fwhamm"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Andreas Nejbert",
+    "title": "Webdesign (WordPress), SEO",
+    "email": "andreas@in2web.de",
+    "phone": "0157 552 036 97",
+    "website": "http://www.in2web.de",
+    "city": ["Frankfurt", "Darmstadt", "Offenbach"],
+    "keywords": ["webdesign", "wordpress", "suchmaschinenoptimierung", "seo" ],
+    "profiles": {
+        "gravatar": "andreas@in2web.de",
+        "xing": "https://www.xing.com/profile/Andreas_Nejbert",
+        "twitter": "",
+        "google+": "https://plus.google.com/+In2webDeWebdesign-Frankfurt",
+        "facebook": "https://www.facebook.com/in2web.webdesign",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}

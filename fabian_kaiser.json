@@ -1,0 +1,26 @@
+{
+	"name": "Fabian Kaiser",
+	"title": "Webdesigner, Programmierer",
+	"email": "f.kaiser@connex-werbeagentur.de",
+	"phone": "0611 33482931",
+	"website": "http://www.connex-werbeagentur.de/webdesign-wiesbaden",
+	"city": ["Wiesbaden", "Mainz"],
+	"keywords": ["Webdesign", "Webprogrammierung", "Webgestaltung", "CMS-Webdesign"],
+	"profiles": {
+		"gravatar": "",
+		"xing": "",
+		"twitter": "https://twitter.com/connexdesign",
+		"google+": "https://plus.google.com/101320239411509330857/posts",
+		"facebook": "https://www.facebook.com/ConnexDesign",
+		"linkedin": "",
+		"github": "",
+		"stackoverflow": "",
+		"aboutme": "",
+		"tumblr": "",
+		"500px": "",
+		"behance": "",
+		"flickr": "",
+		"slideshare": "",
+		"pinboard": ""
+	}
+}

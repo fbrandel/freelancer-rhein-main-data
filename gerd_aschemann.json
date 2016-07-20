@@ -1,0 +1,33 @@
+{
+    "name": "Gerd Aschemann",
+    "title": "Software Architektur und Entwicklung",
+    "email": "freelancer@aschemann.net",
+    "phone": "0173 32 64 070",
+    "website": "http://aschemann.net",
+    "city": ["Frankfurt", "Darmstadt", "Wiesbaden"],
+    "keywords": ["Entwicklung", "Architektur", "Backend", "Java",
+    "JEE", "Groovy", "Perl", "Spring", "Configuration Management",
+    "Jenkins", "Jira", "Confluence", "git", "SVN", "SubVersion",
+    "Nexus", "Maven", "Gradle", "Vagrant", "Docker", "Tomcat",
+    "WebSphere", "WebLogic", "Eclipse", "Oracle", "Postgres", "MySQL",
+    "REST", "SOAP", "ESB", "SOA", "Arc42", "Enterprise Architect",
+    "SonarQube", "Sonargraph Architect", "SonarJ"],
+    "profiles": {
+        "gravatar": "freelancer@aschemann.net",
+        "xing": "http://xing.to/GerdAschemann",
+        "twitter": "http://twitter.com/GerdAschemann",
+        "google+": "https://plus.google.com/101170406326793964318/posts",
+        "facebook": "",
+        "linkedin": "https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button",
+        "github": "http://github.com/ascheman",
+        "stackoverflow": "https://stackoverflow.com/users/566932/gerd-aschemann",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": "",
+	"gulp": "http://www.gulp.de/profil/aschemann.html"
+    }
+}
