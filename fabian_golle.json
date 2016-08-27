@@ -1,0 +1,26 @@
+{
+    "name": "Fabian Golle",
+    "title": "Backend Developer & Consultant",
+    "email": "info@fabian-golle.de",
+    "phone": "069 348 789 10",
+    "website": "http://www.fabian-golle.de",
+    "city": ["Frankfurt"],
+    "keywords": ["PHP", "JAVA", "Shopware", "Symfony2", "Consulting"],
+    "profiles": {
+        "gravatar": "info@fabian-golle.de",
+        "xing": "https://www.xing.com/profile/Fabian_Golle2",
+        "twitter": "http://twitter.com/fabiangolle",
+        "google+": "",
+        "facebook": "https://www.facebook.com/fgits/",
+        "linkedin": "https://www.linkedin.com/in/fabian-golle-91200725",
+        "github": "https://github.com/micronax",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
