@@ -1,0 +1,26 @@
+{
+    "name": "Marco Blank",
+    "title": "Visuelle Kommunikation",
+    "email": "info@marcoblank.de",
+    "phone": "061316962422",
+    "website": "http://www.marcoblank.de",
+    "city": ["Frankfurt", "Mainz","Wiesbaden"],
+    "keywords": ["Print", "Webdesign", "Werbetechnik", "Grafikdesign", "Wordpress"],
+    "profiles": {
+        "gravatar": "anfrage@agenturblank.de",
+        "xing": "https://www.xing.com/profile/Marco_Blank",
+        "twitter": "http://twitter.com/agenturblank",
+        "google+": "https://plus.google.com/103954988462542291815/",
+        "facebook": "https://www.facebook.com/agenturblank",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
