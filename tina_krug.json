@@ -1,12 +1,13 @@
 {
     "name": "Tina Krug",
-    "title": "Digitales Projektmanagement, Webentwicklung, SEO",
+    "title": "Projektmanagement, SEO, Webentwicklung",
     "email": "tina@tinakrug.de",
     "phone": "0177-7197975",
     "website": "http://www.tinakrug.de",
     "city": ["Frankfurt", "Offenbach"],
     "keywords": ["Projektmanagement", "Projektmanager", "SEM", "SEO", "Webentwickung", "Wordpress", "UX", "Konzeption"],
     "profiles": {
+        "gravatar": "tina@tinakrug.de",
         "xing": "https://www.xing.com/profile/Tina_Krug2"
     }
 }
