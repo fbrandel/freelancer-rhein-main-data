@@ -1,10 +1,10 @@
 {
     "name": "Felix Heidecke",
-    "title": "Konzept, Design & Code",
-    "email": "felix@3lc.me",
-    "phone": "069 25712204",
+    "title": "HTML, CSS, JS",
+    "email": "felix@heidecke.me",
+    "phone": "069 59603812",
     "website": "http://felix.heidecke.me",
-    "city": ["Frankfurt", "Nürnberg"],
+    "city": ["Nürnberg", "Frankfurt"],
     "keywords": ["UI/UX", "Konzeption", "Web-Design", "Web-Entwicklung", "Frontend", "HTML5", "CSS3", "Sass", "Less", "JavaScript", "jQuery", "AJAX"],
     "profiles": {
         "gravatar": "felix@heidecke.me",
