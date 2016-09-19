@@ -1,0 +1,26 @@
+{
+    "name": "Mark P. Dansel",
+    "title": "Gestaltung, Entwicklung und Beratung bei Webanwendungen, Webseiten, Webshops, mobilen Apps und 360° Fototouren",
+    "email": "m.dansel@klartraeumer.com",
+    "phone": "",
+    "website": "http://www.klartraeumer.com",
+    "city": ["Mainz", "Wiesbaden", "Frankfurt", "Mannheim"],
+    "keywords": ["HTML", "CSS", "jQuery", "Bootstrap", "Webshop", "Webdesign", "Mobile Apps", "360° Fototouren", "Webentwicklung", "Frontend", "Wordpress", "Magento"],
+    "profiles": {
+        "gravatar": "",
+        "xing": "",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
