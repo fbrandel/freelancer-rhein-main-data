@@ -1,0 +1,26 @@
+{
+    "name": "Johannes Faupel",
+    "title": "schnelletexte.de | Werbetext und SEO für B2B | B2B-Marketing",
+    "email": "faupel@schnelletexte.de",
+    "phone": "0174 1234 567",
+    "website": "https://schnelletexte.de",
+    "city": ["Frankfurt", "Offenbach", "Hanau", "Wiesbaden", "Darmstadt"],
+    "keywords": ["Werbetext", "SEO", "Suchmaschinenoptimierung", "Konzeption"],
+    "profiles": {
+        "gravatar": "faupel@schnelletexte.de",
+        "xing": "https://www.xing.com/profile/Johannes_Faupel",
+        "twitter": "https://twitter.com/schnelletexte",
+        "google+": "https://plus.google.com/+schnelletextede",
+        "facebook": "https://www.facebook.com/schnelletexte",
+        "linkedin": "https://www.linkedin.com/company/schnelletexte.de",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "http://about.me/johannesfaupel",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
