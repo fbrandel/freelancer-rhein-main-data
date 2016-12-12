@@ -1,0 +1,26 @@
+{
+    "name": "Desiree Knauer",
+    "title": "Mediendesigner für Web & Print",
+    "email": "info@desireeknauer.de",
+    "phone": "0173 8576337",
+    "website": "http://www.desireeknauer.de",
+    "city": ["Frankfurt", "Offenbach", "Langen", "Darmstadt"],
+    "keywords": ["grafik", "design", "webdesign", "print", "gestaltung", "visitenkarte", "flyer", "logo"],
+    "profiles": {
+        "gravatar": "info@desireeknauer.de",
+        "xing": "",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
