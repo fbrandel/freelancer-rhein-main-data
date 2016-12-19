@@ -1,0 +1,20 @@
+{
+
+	"name": "David Grotkasten",
+	"title": "Print- und Webdesign",
+	"email": "kontakt@dg-webdesign.com",
+	"phone": "017645930343",
+	"website": "http://www.dg-webdesign.com",
+	"city": ["Mannheim", "Heidelberg"],
+	"keywords": ["Webdesign", "Wordpress", "Printgestaltung", "Responsive Design", "Grafikdesign"],
+	"profiles": {
+		"gravatar": "kontakt@dg-webdesign.com",
+		"xing": "",
+		"twitter": "",
+		"google+": "",
+		"facebook": "https://www.facebook.com/david.grotkasten",
+		"linkedin": "https://www.linkedin.com/in/david-grotkasten-294770134?trk=nav_responsive_tab_profile",
+		"github": "",
+		"stackoverflow": ""
+	}
+}
