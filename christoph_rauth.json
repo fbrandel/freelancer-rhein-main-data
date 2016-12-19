@@ -1,0 +1,26 @@
+{
+    "name": "Christoph Rauth",
+    "title": "Online Marketing Experte",
+    "email": "rauth@semize.de",
+    "phone": "0176 555 75 200",
+    "website": "http://www.semize.de",
+    "city": ["Mainz", "Wiesbaden", "Frankfurt"],
+    "keywords": ["online marketing", "suchmaschinenmarketing", "suchmaschinenoptimierung", "suchmaschinenwerbung", "seo", "sea", "google adwords", "conversion optimierung"],
+    "profiles": {
+        "gravatar": "",
+        "xing": "https://www.xing.com/profile/Christoph_Rauth",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
