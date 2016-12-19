@@ -4,45 +4,41 @@
 	"email": "buero@edv-training-riehl.de",
 	"phone": "0172-1012903",
 	"website": "https://www.edv-training-riehl.de",
-	"city": ["Frankfurt", "Offenbach"
-		"Gießen"
-		"Marburg"
-		"Fulda"
-		"Kassel"
-		"Darmstadt"
-		"Wiesbaden"
-		"Friedberg"
-		"Bad Nauheim"
-		"Limburg"
-		"Wetzlar"
-		"Weilburg"
-		"Bad Homburg"
-		"Hanau"
-		"Gelnhausen"
-		"Büdingen"
-		"Bad Hersfeld"
-		"Homberg"
+	"city": ["Frankfurt", "Offenbach",
+		"Gießen",
+		"Marburg",
+		"Fulda",
+		"Kassel",
+		"Darmstadt",
+		"Wiesbaden",
+		"Friedberg",
+		"Bad Nauheim",
+		"Limburg",
+		"Wetzlar",
+		"Weilburg",
+		"Bad Homburg",
+		"Hanau",
+		"Gelnhausen",
+		"Büdingen",
+		"Bad Hersfeld",
+		"Homberg",
 		"Aschaffenburg"
 	],
-	"keywords": ["Word"
-		"Excel"
-		"Outlook"
-		"Access"
-		"Statistik"
-		"MaFo"
-		"SQL"
-		"VBA"
-		"Weiterbildung"
-		"Schulungen"
-		"Seminare"
-		"Kurse"
-		"Rhein-Main"
-		"Mittelhessen"
-		"Gießen"
-		"Oberhessen"
-		"Kalkulation"
-		"Serienbriefe"
-		"Serien-e-Mails"
+	"keywords": ["Word",
+		"Excel",
+		"Outlook",
+		"Access",
+		"Statistik",
+		"MaFo",
+		"SQL",
+		"VBA",
+		"Weiterbildung",
+		"Schulungen",
+		"Seminare",
+		"Kurse",
+		"Kalkulation",
+		"Serienbriefe",
+		"Serien-e-Mails",
 		"Bidlungsurlaub"
 	],
 	"profiles": {
