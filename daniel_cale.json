@@ -1,0 +1,26 @@
+{
+    "name": "Daniel Cale",
+    "title": "Webdesign & SEO",
+    "email": "d.cale@seo-md.net",
+    "phone": "0176 11 550 500",
+    "website": "http://www.seo-md.net",
+    "city": ["Frankfurt", "Offenbach", "Bad Vilbel"],
+    "keywords": ["Webdesign", "Suchmaschinenoptimierung", "Grafikdesign", "SEO"],
+    "profiles": {
+        "gravatar": "d.cale@seo-md.net",
+        "xing": "http://www.xing.com/profile/Daniel_Cale3",
+        "twitter": "",
+        "google+": "",
+        "facebook": "https://www.facebook.com/seoagenturfrankfurt",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
