@@ -1,0 +1,26 @@
+{
+    "name": "Anna Engberg",
+    "title": "Journalistin. PR & Werbetext",
+    "email": "text@annaengberg.de",
+    "phone": "0176 49917522",
+    "website": "http://www.annaengberg.de",
+    "city": ["Frankfurt", "Wiesbaden", "Mainz", "Offenbach"],
+    "keywords": ["journalist", "werbetexter", "texter", "redakteur", "public relations", "social media", "blogger", "blogging", "pr-redakteur", "pr-journalist", "marketing", "communication", "healthcare", "gesundheit", "ernährung", "food", "lifestyle"],
+    "profiles": {
+        "gravatar": "mapartifex@gmail.com",
+        "xing": "http://www.xing.com/profile/Anna_Engberg",
+        "twitter": "http://twitter.com/textjournalist",
+        "google+": "",
+        "facebook": "https://www.facebook.com/profile.php?id=100008175374451",
+        "linkedin": "http://de.linkedin.com/in/anna-engberg-859b2991",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
