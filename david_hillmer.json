@@ -1,0 +1,26 @@
+{
+    "name": "David Hillmer",
+    "title": "Digital Project Manager",
+    "email": "hillmer.david@gmail.com",
+    "phone": "0151 27536965",
+    "website": "",
+    "city": ["Frankfurt", "Wiesbaden", "Mainz", "Darmstadt"],
+    "keywords": ["Projektmanagement", "Scrum", "Agile", "Rollout", "Projektmanager"],
+    "profiles": {
+        "gravatar": "",
+        "xing": "https://www.xing.com/profile/David_Hillmer2",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "https://www.linkedin.com/in/david-hillmer",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
