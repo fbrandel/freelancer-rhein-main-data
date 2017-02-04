@@ -1,0 +1,26 @@
+{
+    "name": "Sina Listmann",
+    "title": "Text & Konzept für Genussthemen",
+    "email": "contact@sina-listmann.com",
+    "phone": "0176 55637907",
+    "website": "http://www.sina-listmann.com",
+    "city": ["Wiesbaden", "Mainz","Frankfurt","Darmstadt"],
+    "keywords": ["text", "konzept", "print", "online", "journalist"],
+    "profiles": {
+        "gravatar": "contact@sina-listmann.com",
+        "xing": "http://xing.to/sina-listmann",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
