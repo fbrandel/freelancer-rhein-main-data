@@ -1,0 +1,16 @@
+{
+    "name": "Martin Kraft",
+    "title": "Interaktionsdesigner",
+    "email": "mail@martinkraft.com",
+    "phone": "+49 (611) 30 66 60",
+    "website": "http://www.martinkraft.com",
+    "city": ["Wiesbaden", "Mainz"],
+    "keywords": ["interaktionsdesign", "design", "infografik", "infografiken", "erkläranimatione", "interaktion", "animation", "screendesign", "javascript", "actionscript", "html", "css", "mobile", "jquery", "html5", "css3", "wikipedia", "flash", "photo", "fotografie", "verstehen"],
+    "profiles": {
+        "gravatar": "mail@martinkraft.com",
+        "xing": "https://www.xing.com/profile/Martin_Kraft",
+        "linkedin": "https://www.linkedin.com/in/martin-kraft-5635573b",
+        "twitter": "http://twitter.com/martin_kraft",
+        "flickr": "https://www.flickr.com/photos/90741600@N03/"
+    }
+}
