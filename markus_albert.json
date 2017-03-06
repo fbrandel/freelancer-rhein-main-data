@@ -1,13 +1,26 @@
 {
     "name": "Markus Albert",
-    "title": "Text, Konzept & Ideen",
-    "email": "textotum@gmx.de",
+    "title": "Texter",
+    "email": "post@markus-albert.com",
     "phone": "0179 7451550",
     "website": "http://www.markus-albert.com",
     "city": ["Frankfurt", "Offenbach"],
-    "keywords": ["text", "online", "broschüren", "mailings"],
+    "keywords": ["text", "texter", "konzept", "idee", "copywriter"],
     "profiles": {
-        "gravatar": "moio@gmx.de",
-        "xing": "http://xing.to/markus-albert"
+        "gravatar": "post@markus-albert.com",
+        "xing": "https://www.xing.com/profile/Markus_Albert2?sc_o=mxb_p#",
+        "twitter": "http://twitter.com/erika.mustermann",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
     }
 }
