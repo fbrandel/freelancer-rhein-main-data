@@ -1,24 +1,27 @@
 {
     "name": "Benedikt Deicke",
-    "title": "Software Engineer",
+    "title": "Software Entwickler und Berater",
     "email": "benedikt@benediktdeicke.com",
-    "website": "http://www.benediktdeicke.com",
-    "city": ["Darmstadt", "Frankfurt"],
+    "website": "https://benediktdeicke.com/rhein-main",
+    "city": ["Darmstadt", "Frankfurt", "Mainz", "Wiesbaden", "Aschaffenburg"],
     "keywords": [
-      "ruby on rails", "ruby", "rspec", "capistrano",
-      "sinatra", "javascript", "ember.js", "jquery", "ajax", "json",
-      "oop", "xml", "xslt", "html", "xhtml", "haml", "css", "sass",
-      "sql", "java", "git", "processing", "resque", "mongodb",
-      "mongoid", "redis", "oauth2", "opengraph", "rest",
-      "webfonts", "webapplikationen", "softwareentwicklung",
-      "webentwicklung", "webdesign", "usability", "tdd", "bdd",
-      "refactoring", "clean code", "scrum"
+        "ruby on rails", "rails", "ruby", "rspec", "capistrano",
+        "sinatra", "javascript", "ember.js", "jquery", "ajax", "json",
+        "oop", "xml", "xslt", "html", "xhtml", "haml", "css", "sass",
+        "sql", "git", "mongodb", "mongoid", "api", "jsonapi",
+        "redis", "oauth2", "opengraph", "rest", "layer", "backend", "frontend",
+        "webfonts", "webapplikationen", "softwareentwicklung", "software", "entwicklung",
+        "webentwicklung", "webdesign", "usability", "tdd", "bdd",
+        "refactoring", "clean code", "scrum", "produkt", "produktentwicklung", "saas",
+        "software as a service", "cofounder", "cto", "boostrapping", "startup", "gründer",
+        "launch", "coaching", "coach", "mentoring", "mentor", "trainer", "training", "schulung",
+        "maintenance", "wartung", "pflege", "skalierung", "heroku", "shopify", "berater", "beratung",
+        "paas", "caching", "performance", "review", "remote"
     ],
     "profiles": {
         "gravatar": "benedikt@benediktdeicke.com",
         "xing": "http://xing.to/benedikt-deicke",
         "twitter": "https://twitter.com/benediktdeicke",
-        "google+": "https://plus.google.com/104775472587527890320",
         "github": "https://github.com/benedikt",
         "stackoverflow": "http://stackoverflow.com/users/1109852/benedikt-deicke"
     }
