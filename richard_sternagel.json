@@ -1,0 +1,48 @@
+{
+   "name":"Richard Sternagel",
+   "title":"Senior Web Developer (JavaScript, React, Node.js)",
+   "email":"rsternagel@posteo.de",
+   "website":"http://www.rsternagel.de",
+   "city":[
+      "Frankfurt",
+      "Darmstadt",
+      "Wiesbaden",
+      "Mainz"
+   ],
+   "keywords":[
+      "web entwicklung",
+      "webentwicklung",
+      "frontend",
+      "full stack",
+      "full-stack",
+      "web-applikation",
+      "web applikation",
+      "web-app",
+      "web app",
+      "spa",
+      "single page app",
+      "javascript",
+      "js",
+      "react",
+      "react.js",
+      "node.js",
+      "redux",
+      "graphql",
+      "webpack",
+      "html",
+      "redis",
+      "mongodb",
+      "mysql",
+      "css",
+      "rest",
+      "responsive webdesign",
+      "responsive web design",
+      "git",
+      "kanban",
+      "scrum"
+   ],
+   "profiles":{
+      "xing":"https://www.xing.com/profile/Richard_Sternagel/",
+      "linkedin":"http://www.linkedin.com/in/richard-sternagel"
+   }
+}
