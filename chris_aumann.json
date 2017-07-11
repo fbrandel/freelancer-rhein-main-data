@@ -1,18 +1,21 @@
 {
     "name": "Chris Aumann",
-    "title": "Señor Devops",
+    "title": "Señor DevOps/ SecOps, SRE, Security Engineer",
     "email": "me@chr4.org",
     "website": "http://chr4.org",
-    "city": ["Frankfurt", "Offenbach", "Darmstadt"],
+    "city": ["Frankfurt", "Offenbach", "Darmstadt", "Mainz", "Wiesbaden"],
     "keywords": [
-      "chef", "devops", "linux", "security", "postgres", "postgresql", "mysql",
-      "ruby", "ruby on rails", "rails", "c", "go", "golang", "bash", "zsh",
-      "mongodb", "nosql", "git", "continous deployment", "capistrano", "haml",
-      "scalability", "high availability", "ha", "virtualization", "openstack",
-      "infrastructure as code", "saas", "software as a service", "ssl", "tls",
-      "openssl", "administration", "server", "operations", "ssh", "zabbix",
-      "monitoring", "bsd", "freebsd", "consulting", "vpn", "openvpn", "docker",
-      "iptables", "nftables", "firewall", "deployment", "continous delivery"
+        "chef", "devops", "linux", "security", "postgres", "postgresql",
+        "mysql", "ruby", "ruby on rails", "rails", "c", "go", "golang", "bash",
+        "zsh", "mongodb", "nosql", "git", "continuous deployment", "capistrano",
+        "haml", "scalability", "high availability", "ha", "virtualization",
+        "openstack", "infrastructure as code", "saas", "software as a service",
+        "ssl", "tls", "openssl", "administration", "server", "operations",
+        "zabbix", "monitoring", "bsd", "freebsd", "consulting", "vpn", "ubuntu",
+        "docker", "iptables", "nftables", "firewall", "deployment", "openvpn",
+        "alpine", "continuous delivery", "rust", "terraform", "container", "ci",
+        "coreos", "postfix", "dovecot", "saltstack", "dns", "prometheus", "cd",
+        "grafana", "sre", "secops", "gpg", "encryption", "ssh"
     ],
     "profiles": {
         "gravatar": "me@chr4.org",
