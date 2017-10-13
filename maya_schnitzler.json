@@ -1,0 +1,26 @@
+{
+    "name": "Maya Schnitzler",
+    "title": "Systementwicklung & Internetlösungen",
+    "email": "post@aretech.de",
+    "phone": "0611 9874589",
+    "website": "https://aretech.de",
+    "city": ["Wiesbaden", "Mainz", "Darmstadt", "Frankfurt", "Offenbach"],
+    "keywords": ["Webentwicklung", "Datenbankentwicklung", "Web", "Datenbanken", "Systementwicklung", "Internetlösungen", "PHP", "MySQL", "Content-Management-Systeme", "CMS", ".NET", "Wordpress", "Drupal", "Concrete 5", "Joomla", "Typo 3", "VBA", "Access", "Migration", "Schnittstellenprogrammierung", "ILS", "Non-Profit", "Backend"],
+    "profiles": {
+        "gravatar": "mayschje@posteo.de",
+        "xing": "https://www.xing.com/profile/Maya_Schnitzler",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
