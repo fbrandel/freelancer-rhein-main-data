@@ -10,7 +10,7 @@ class JsonFileTest extends PHPUnit_Framework_TestCase
         $json = file_get_contents($file);
         $decoded = json_decode($json);
 
-        $this->assertNotNull($decoded, 'JSON file is not valid');
+        $this->assertNotNull($decoded, 'JSON file is not valid: ' . $file);
     }
 
     /**
