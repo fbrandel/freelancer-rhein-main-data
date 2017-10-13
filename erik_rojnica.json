@@ -1,0 +1,26 @@
+{
+    "name": "Erik Rojnica",
+    "title": "Webdesign aus Rodgau",
+    "email": "info@pixeltale.de",
+    "phone": "06106 / 2599286",
+    "website": "http://pixeltale.de",
+    "city": ["Frankfurt", "Offenbach", "Rodgau"],
+    "keywords": ["webdesign", "werbeagentur", "seo", "website erstellen lassen"],
+    "profiles": {
+        "gravatar": "info@pixeltale.de",
+        "xing": "",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
