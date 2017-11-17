@@ -1,0 +1,26 @@
+{
+    "name": "Susanne Fazekas",
+    "title": "Webdesign, Mediengestaltung",
+    "email": "susanne.fazekas@gmx.de",
+    "phone": "0176 82624240",
+    "website": "http://www.susanne-fazekas.de",
+    "city": ["Giessen"],
+    "keywords": ["HTML", "CSS", "jQuery","Webdesign", "Mediengestaltung", "Contao", "Webshop", "Wordpress", "Shopware", "Gestaltung", "Buchsatz" ],
+    "profiles": {
+        "gravatar": "susanne.fazekas@gmx.de",
+        "xing": "https://www.xing.com/profile/Susanne_Fazekas",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "https://de.linkedin.com/in/susannefazekas",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
