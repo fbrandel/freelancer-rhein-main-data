@@ -1,0 +1,31 @@
+{
+	"name": "Mitja Eichhorn",
+	"title": "UX Designer",
+	"email": "contact@eichhorn.pro",
+	"phone": "0179 1309460",
+	"website": "http://www.eichhorn.pro",
+	"city": ["Frankfurt",
+		"Wiesbaden"
+	],
+	"keywords": ["freelancer", "UX", "prototyping",
+		"wireframes", "User Experience", "Informationsarchitektur",
+		"Usability", "Mobile design", "responsive"
+	],
+	"profiles": {
+		"gravatar": "mitree42@googlemail.com",
+		"xing": "https://www.xing.com/profile/Mitja_Eichhorn",
+		"twitter": "https://twitter.com/mitree",
+		"google+": "",
+		"facebook": "https://www.facebook.com/mitjaeichhorn",
+		"linkedin": "",
+		"github": "",
+		"stackoverflow": "",
+		"aboutme": "",
+		"tumblr": "https://mitjaeichhorn.tumblr.com/",
+		"500px": "",
+		"behance": "https://www.behance.net/eichhorn",
+		"flickr": "",
+		"slideshare": "",
+		"pinboard": ""
+	}
+}
