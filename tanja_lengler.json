@@ -1,0 +1,26 @@
+{
+    "name": "Tanja Lengler",
+    "title": "Dipl. Medieninformatikerin: Design & Entwicklung",
+    "email": "tanja.lengler@webcooks.de",
+    "phone": "0160 260 79 69",
+    "website": "http://www.webcooks.de",
+    "city": ["Frankfurt", "Bad Nauheim"],
+    "keywords": ["webentwicklung", "webdesign", "ux-design", "design", "ux", "responsive design", "screendesign", "mobile", "app entwicklung", "programmierung", "webdevelopment", "cms", "joomla", "joomla!", "wordpress", "shop", "ecommerce", "e-commerce",  "konzept", "beratung", "consulting", "web", "php", "javascript", "html", "html5", "css", "sass", "less", "bootstrap", "maps", "usability", "payment", "paypal", "stripe", "api", "rest", "restful", "text", "content", "textkonzept", "seo", "social media marketing"],
+    "profiles": {
+        "gravatar": "tanja.lengler@webcooks.de",
+        "xing": "https://xing.to/Tanja-Lengler",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
