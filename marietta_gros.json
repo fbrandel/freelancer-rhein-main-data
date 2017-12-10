@@ -1,0 +1,15 @@
+{
+    "name": "Marietta Gros",
+    "title": "Eventmanagement, Projektmanagement",
+    "email": "gros@grosconnection.de",
+    "phone": "0176 23 18 00 95",
+    "website": "http://www.grosconnection.de",
+    "city": ["Frankfurt", "Mainz", "Wiesbaden", "Darmstadt", "Giessen"],
+    "keywords": ["Event", "Veranstaltungen", "Proketleiter", "Freelancer"],
+    "profiles": {
+        "gravatar": "gros@grosconnection.de",
+        "xing": "https://www.xing.com/profile/Marietta_Gros",
+        "linkedin": "https://www.linkedin.com/in/MariettaGros",
+        "instagram": "https://www.instagram.com/grosconnection/"
+    }
+}
