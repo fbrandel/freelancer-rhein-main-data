@@ -6,7 +6,8 @@
 	"website": "http://www.amankona.de",
 	"city": ["Frankfurt", "Offenbach", "Wiesbaden", "Mainz"],
 	"keywords": ["Klassische Werbung", "Corporate Design", "Editorial Design", "Packaging", "Verkaufsförderung", "Print", "Digital", "Illustration"],
-	"profiles": {},
-	"xing": "https://www.xing.com/profile/Anja_PfeifferAmankona",
-	"facebook": "https://www.facebook.com/amankonagrafikdesign/"
+	"profiles": {
+		"xing": "https://www.xing.com/profile/Anja_PfeifferAmankona",
+		"facebook": "https://www.facebook.com/amankonagrafikdesign/"
+	}
 }
