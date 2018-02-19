@@ -1,0 +1,26 @@
+{
+    "name": "Sascha Egerer",
+    "title": "Senior Web Developer // PHP // TYPO3 // HTML/CSS // JS // Docker // CI/CD",
+    "email": "info@sascha-egerer.de",
+    "phone": "+49 178 452 0000",
+    "website": "https://sascha-egerer.de",
+    "city": ["Frankfurt", "Wiesbaden", "Mainz", "Offenbach", "Fulda"],
+    "keywords": ["TYPO3", "docker", "unit testing", "design pattern", "php", "qualitätssicherung", "qa"],
+    "profiles": {
+        "gravatar": "",
+        "xing": "https://www.xing.com/profile/Sascha_Egerer",
+        "twitter": "https://twitter.com/sascha_egerer",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "https://www.linkedin.com/in/egerer",
+        "github": "https://github.com/sascha-egerer",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
