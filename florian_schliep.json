@@ -1,0 +1,26 @@
+{
+    "name": "Florian Schliep",
+    "title": "iOS & macOS Entwickler",
+    "email": "hello@floschliep.com",
+    "phone": null,
+    "website": "http://flo.fyi",
+    "city": ["Frankfurt"],
+    "keywords": ["iOS", "Mac", "Swift", "Objective-C", "Cocoa"],
+    "profiles": {
+        "gravatar": null,
+        "xing": null,
+        "twitter": "https://twitter.com/floschliep",
+        "google+": null,
+        "facebook": null,
+        "linkedin": null,
+        "github": "https://github.com/floschliep",
+        "stackoverflow": "https://stackoverflow.com/users/1519215/floschliep",
+        "aboutme": null,
+        "tumblr": null,
+        "500px": null,
+        "behance": null,
+        "flickr": null,
+        "slideshare": null,
+        "pinboard": null
+    }
+}
