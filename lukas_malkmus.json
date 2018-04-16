@@ -1,0 +1,36 @@
+{
+    "name": "Lukas Malkmus",
+    "title": "Software Engineer",
+    "email": "mail@lukasmalkmus.com",
+    "phone": "",
+    "desc": "Student by day, Software developer at night",
+    "website": "",
+    "city": [
+        "Frankfurt",
+        "Hanau"
+    ],
+    "available": false,
+    "keywords": [
+        "microservices",
+        "distributed systems",
+        "go",
+        "grpc"
+    ],
+    "profiles": {
+        "gravatar": "mail@lukasmalkmus.com",
+        "twitter": "http://twitter.com/lukasmalkmus",
+        "github": "http://github.com/lukasmalkmus",
+        "linkedin": "",
+        "google+": "",
+        "facebook": "",
+        "xing": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
