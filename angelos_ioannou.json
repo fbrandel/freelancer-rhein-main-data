@@ -1,25 +1,11 @@
 {
     "name": "Angelos Ioannou",
-    "title": "Frontend Entwickler",
-    "email": "jobs.angelos.ioannou@gmx.de",
-    "website": "http://www.angelosweb.bplaced.de",
-    "city": ["Frankfurt", "Offenbach", "Rodgau"],
-    "keywords": ["Javascript", "Css", "Wordpress", "Frontend", "html","web design","web entwicklung"],
+    "title": "Webdesign und Webentwicklung",
+    "email": "angelosweb@gmx.de",
+    "website": "http://www.angelosweb.bplaced.net",
+    "city": ["Frankfurt", "Offenbach","Rodgau"],
+    "keywords": ["Wordpress", "Frontend", "Backend", "HTML","CSS","PHP","Javascript"],
     "profiles": {
-        "gravatar": "jobs.angelos.ioannou@gmx.de",
-        "xing": "",
-        "twitter": "",
-        "google+": "",
-        "facebook": "https://www.facebook.com/4ngelo5",
-        "linkedin": "",
-        "github": "",
-        "stackoverflow": "",
-        "aboutme": "",
-        "tumblr": "",
-        "500px": "",
-        "behance": "",
-        "flickr": "",
-        "slideshare": "",
-        "pinboard": ""
+        "github": "https://github.com/tigigti"
     }
 }
