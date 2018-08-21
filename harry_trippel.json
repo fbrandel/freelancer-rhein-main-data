@@ -1,0 +1,25 @@
+{
+    "name": "Harry Trippel",
+    "title": "Fullstack Web Entwickler",
+    "email": "harrytrippel@gmx.de",
+    "phone": "017645646770",
+    "website": "https://mietdas.de/",
+    "city": ["Frankfurt, Darmstadt, Wiesbaden"],
+    "keywords": ["ReactJs", "VueJs", "Laravel", "Node", "JavaScript", "Php", "NoSQl", "MySQl", "Firebase", "HTML", "CSS"],
+    "profiles": {
+        "gravatar": "harrytrippel@gmx.de",
+        "xing": "https://www.xing.com/profile/Harry_Trippel",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "http://www.linkedin.com/in/harry-trippel-03382113a",
+        "github": "https://github.com/harrytgerman/",
+        "stackoverflow": "https://stackoverflow.com/users/8691170/harrytgerman",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": ""
+    }
+}
