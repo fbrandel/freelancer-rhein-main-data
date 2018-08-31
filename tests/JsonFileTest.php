@@ -41,6 +41,20 @@ class JsonFileTest extends PHPUnit_Framework_TestCase
     /**
      * @dataProvider jsonFileProvider
      */
+    public function testValidWebsite($file)
+    {
+        $json = file_get_contents($file);
+        $decoded = json_decode($json);
+
+        if (isset($decoded->website) && !empty($decoded->website)) {
+            $url = $decoded->website;
+            $this->assertTrue((bool) preg_match('/^http(s?):\/\//', $url), "URL $url is not valid");
+        }
+    }
+
+    /**
+     * @dataProvider jsonFileProvider
+     */
     public function testValidProfileUrls($file)
     {
         $json = file_get_contents($file);
