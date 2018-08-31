@@ -1,0 +1,35 @@
+{
+  "name": "Michael Stuppert",
+  "title": "Eventmanager ",
+  "email": "michael@stuppert.com",
+  "phone": "+49176 239 45 199",
+  "website": "http://www.edplus.de",
+  "city": [
+    "Frankfurt",
+    "Mainz",
+    "Wiesbaden"
+  ],
+  "keywords": [
+    "Event",
+    "Freelancer",
+    "Veranstaltungskaufmann",
+    "Grafiker"
+  ],
+  "profiles": {
+    "gravatar": "",
+    "xing": "https://www.xing.com/profile/Michael_Stuppert/cv",
+    "twitter": "",
+    "google+": "",
+    "facebook": "https://www.facebook.com/freelancermichaelstuppert/",
+    "linkedin": "https://www.linkedin.com/in/michael-stuppert-3564b38a/",
+    "github": "",
+    "stackoverflow": "",
+    "aboutme": "",
+    "tumblr": "",
+    "500px": "",
+    "behance": "",
+    "flickr": "",
+    "slideshare": "",
+    "pinboard": ""
+  }
+}
