@@ -1,0 +1,26 @@
+{
+	"name": "Andreas Bürgel",
+	"title": "TYPO3 Programmierer, TYPO3 Freelancer",
+	"email": "info@andreas-buergel.com",
+	"phone": "06192 963800",
+	"website": "https://www.andreas-buergel.com",
+	"city": ["Frankfurt", "Wiesbaden", "Mainz", "Bad Hombuerg", "Hofheim"],
+	"keywords": ["TYPO3", "TYPO3 CMS", "Extbase", "Fluid", "Typoscript", "HTML5", "CSS3", "LESS", "Javascript", "jQuery", "Bootstrap", "MySQL", "Linux", "Ubuntu", "Git", "Netbeans", "Adobe Photoshop"],
+	"profiles": {
+		"gravatar": "",
+		"xing": "",
+		"twitter": "",
+		"google+": "",
+		"facebook": "",
+		"linkedin": "",
+		"github": "https://github.com/andreasbuergel",
+		"stackoverflow": "",
+		"aboutme": "",
+		"tumblr": "",
+		"500px": "",
+		"behance": "",
+		"flickr": "",
+		"slideshare": "",
+		"pinboard": ""
+	}
+}
