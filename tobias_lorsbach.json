@@ -1,0 +1,26 @@
+{
+    "name": "Tobias Lorsbach",
+    "title": "Tobeworks Webdevelopment/Webdesign",
+    "email": "hallo@tobeworks.de",
+    "phone": "0179/1259004",
+    "website": "http://tobeworks.de",
+    "city": ["Mainz", "Wiesbaden",  "Frankfurt", "Darmstadt"],
+    "keywords": ["html", "css", "php", "mysql", "wordpress", "webdesign", "frontend", "backend", "bootstrap","javascript","jquery","symfony", "linux", "seo"],
+    "profiles": {
+        "gravatar": "hallo@tobeworks.de",
+        "xing": "http://xing.to/tobeworks",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
