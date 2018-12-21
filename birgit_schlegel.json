@@ -1,0 +1,26 @@
+{
+    "name": "Birgit Schlegel",
+    "title": "Freie Redakteurin",
+    "email": "bs@freieredakteurin.de",
+    "phone": "0173 6559446",
+    "website": "http://freieredakteurin.de",
+    "city": ["Frankfurt", "Offenbach", "Wiesbaden", "Darmstadt"],
+    "keywords": ["Text", "Lektorat", "Redaktion", "Online-Redaktion", "Unternehmenskommunikation"],
+    "profiles": {
+        "gravatar": "",
+        "xing": "https://www.xing.com/profile/Birgit_Schlegel7",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "https://www.linkedin.com/in/birgit-schlegel/",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
