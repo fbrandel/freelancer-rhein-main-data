@@ -1,23 +1,22 @@
 {
     "name": "Rocco Georgi",
-    "title": "Web Technology Consultant",
-    "email": "rocco@pavingways.com",
+    "title": "Hybrid Apps",
+    "email": "mail@roccogeorgi.com",
     "phone": "+49 1577 180 54 25",
     "website": "http://www.roccogeorgi.com",
-    "city": ["Frankfurt", "Darmstadt", "Wiesbaden", "Offenbach", "Mainz", "Hanau"],
-    "keywords": ["JavaScript", "HTML5", "CSS3", "PhoneGap", "Cordova", "Ionic", "Angular", "Mobile", "Web", "node.js", "Git"],
+    "city": ["Frankfurt", "Darmstadt", "Offenbach", "Bad Homburg", "Oberursel", "Kronberg", "Königstein", "Wiesbaden", "Mainz", "Hanau"],
+    "keywords": ["JavaScript", "TypeScript", "HTML5", "CSS3", "Cordova", "Capacitor", "Electron", "Ionic", "Angular", "Mobile", "node.js", "Git", "fastlane", "Agile", "Scrum", "Kanban", "Jenkins", "iOS", "Android", "Windows"],
     "profiles": {
         "gravatar": "rocco@pavingways.com",
         "xing": "https://www.xing.com/profile/Rocco_Georgi",
         "twitter": "https://twitter.com/geeroc",
-        "google+": "https://plus.google.com/+RoccoGeorgi/about",
-        "linkedin": "http://www.linkedin.com/in/roccogeorgi",
+        "linkedin": "https://www.linkedin.com/in/roccogeorgi/",
         "github": "https://github.com/rocco",
-        "stackoverflow": "http://stackoverflow.com/users/527940/pavingways",
-        "aboutme": "",
-        "500px": "http://500px.com/geeroc",
-        "behance": "",
+        "stackoverflow": "https://stackoverflow.com/users/527940/rocco",
+        "500px": "https://500px.com/geeroc",
         "flickr": "http://www.flickr.com/photos/geeroc/",
-        "slideshare": "http://www.slideshare.net/pavingways/"
+        "slideshare": "http://www.slideshare.net/pavingways/",
+        "superuser": "https://superuser.com/users/121435/rocco",
+        "medium": "https://medium.com/@geeroc"
     }
 }
