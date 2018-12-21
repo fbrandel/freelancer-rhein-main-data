@@ -1,0 +1,26 @@
+{
+    "name": "Christoph Hübert",
+    "title": "Hübert Webentwicklung",
+    "email": "kontakt@huebert-webentwicklung.de",
+    "phone": "052328509753",
+    "website": "http://www.huebert-webentwicklung.de",
+    "city": ["Bielefeld", "Paderborn"],
+    "keywords": ["shopware", "php", "laravel", "processwire"],
+    "profiles": {
+        "gravatar": "kontakt@huebert-webentwicklung.de",
+        "xing": "https://www.xing.com/profile/Christoph_Huebert2",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
