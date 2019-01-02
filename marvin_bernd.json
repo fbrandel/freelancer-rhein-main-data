@@ -1,0 +1,26 @@
+{
+    "name": "Marvin Bernd",
+    "title": "Web Designer & Developer",
+    "email": "hello@marvinbernd.de",
+    "phone": "01520 6049110",
+    "website": "https://www.marvinbernd.de",
+    "city": ["Frankfurt", "Rüsselsheim", "Groß-Gerau", "Mainz", "Wiesbaden", "Darmstadt", "Weiterstadt", "Neu-Isenburg"],
+    "keywords": ["WordPress", "Contao", "Websites", "Programmierung", "Webdesign", "HTML", "CSS", "JavaScript", "React"],
+    "profiles": {
+        "gravatar": "hello@marvinbernd.de",
+        "xing": "https://www.xing.com/profile/Marvin_Bernd/",
+        "twitter": "",
+        "google+": "",
+        "facebook": "https://www.instagram.com/marvin_bernd/",
+        "linkedin": "https://www.linkedin.com/in/marvinbernd/",
+        "github": "https://github.com/marvinbernd",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
