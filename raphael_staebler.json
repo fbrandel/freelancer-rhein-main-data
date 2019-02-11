@@ -1,0 +1,26 @@
+{
+    "name": "Raphael Stäbler",
+    "title": "Software-Entwicklung für Web und Mobile",
+    "email": "raphael@productionbuild.de",
+    "phone": "0173 4557788",
+    "website": "https://www.productionbuild.de",
+    "city": ["Frankfurt", "Offenbach", "Hanau"],
+    "keywords": ["Webdesign", "Wordpress-Plugins", "Mobile Apps", "Programmierung", "PHP", "NodeJS", "JavaScript", "CSS", "React", "Swift", "Kotlin", "Python", "Ionic", "iOS", "Android"],
+    "profiles": {
+        "gravatar": "raphael@productionbuild.de",
+        "xing": "",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "www.linkedin.com/in/stäbler-production-build",
+        "github": "https://github.com/blazer82",
+        "stackoverflow": "https://stackoverflow.com/users/3252261/user3252261",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
