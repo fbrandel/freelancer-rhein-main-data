@@ -1,0 +1,26 @@
+{
+    "name": "Florian Herzog",
+    "title": "Frontend Entwickler / WordPress Themes",
+    "email": "hallo@herzog-webstudios.de",
+    "phone": "+49 (0) 176 44 59 6898",
+    "website": "https://herzog-webstudios.de",
+    "city": ["Frankfurt", "Offenbach", "Mainz", "Aschaffenburg", "Alzenau"],
+    "keywords": ["Wordpress", "JavaScript", "git", "PHP", "HTML5", "CMS", "Themes", "Plugins", "anime.js", "vue.js", "jQuery"],
+    "profiles": {
+        "gravatar": "fh@herzog-webstudios.de",
+        "xing": "https://www.xing.com/profile/FlorianGerhard_Herzog",
+        "twitter": "",
+        "google+": "",
+        "facebook": "https://www.facebook.com/herzogflorian",
+        "linkedin": "",
+        "github": "https://github.com/pixeldiebe",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
