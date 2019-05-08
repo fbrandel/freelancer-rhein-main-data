@@ -1,0 +1,45 @@
+{
+   "name":"Patrick Gräfe",
+   "title":"Eventmanagement, Konzeption und Regieführung ",
+   "email":"p.graefe@kreisgrau.com",
+   "phone":"0152 5262 706",
+   "website":"http://www.kreisgrau.com",
+   "city":[
+      "Frankfurt",
+      "Wiesbaden",
+      "Gießen",
+      "Offenbach",
+      "Mainz",
+      "Darmstadt",
+      "Hanau",
+      "Bad Homburg"
+   ],
+   "keywords":[
+      "Event",
+      "Projektleitung",
+      "Konzeption",
+      "Veranstaltungstechnik",
+      "Freelancer",
+      "Corporate Events",
+      "Messe",
+      "Kongress",
+      "Promotion"
+   ],
+   "profiles":{
+      "gravatar":"",
+      "xing":"",
+      "twitter":"",
+      "google+":"",
+      "facebook":"",
+      "linkedin":"https://www.linkedin.com/in/kreisgrau-event-gräfe/",
+      "github":"",
+      "stackoverflow":"",
+      "aboutme":"",
+      "tumblr":"",
+      "500px":"",
+      "behance":"",
+      "flickr":"",
+      "slideshare":"",
+      "pinboard":""
+   }
+}

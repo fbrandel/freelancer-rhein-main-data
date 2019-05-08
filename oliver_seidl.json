@@ -1,0 +1,26 @@
+{
+    "name": "Oliver Seidl | Learning Hero",
+    "title": "Erklärfilme und E-Learnings",
+    "email": "info@learninghero.de",
+    "phone": "06142 7936402",
+    "website": "https://www.learninghero.de",
+    "city": ["Frankfurt", "Rüsselsheim", "Wiesbaden", "Mainz", "Offenbach"],
+    "keywords": ["elearning", "E-Learning", "WBT", "Online Training", "Erklärfilme", "Erklärvideos"],
+    "profiles": {
+        "gravatar": "info@learninghero.de",
+        "xing": "https://www.xing.com/profile/Oliver_Seidl3",
+        "twitter": "",
+        "google+": "",
+        "facebook": "https://www.facebook.com/learninghero.de",
+        "linkedin": "https://www.linkedin.com/in/learninghero",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
