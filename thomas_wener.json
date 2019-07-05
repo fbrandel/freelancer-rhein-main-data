@@ -1,0 +1,26 @@
+{
+    "name": "Thomas Wener",
+    "title": "Softwareentwickler",
+    "email": "",
+    "phone": "",
+    "website": "https://wener.IT",
+    "city": ["Frankfurt", "Wiesbaden", "Mainz"],
+    "keywords": ["java", "softwareentwicklung", "cms", "scrum developer", "agile", "refactoring", "clean code", "html5", "css3", "javascript", "maven", "git", "tdd"],
+    "profiles": {
+        "gravatar": "thwener@gmail.com",
+        "xing": "",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
