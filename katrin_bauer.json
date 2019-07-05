@@ -1,0 +1,12 @@
+{
+    "name": "Katrin Bauer",
+    "title": "Diplom Designerin",
+    "email": "mail@feines-design.net",
+    "phone": "0176 922 66 848",
+    "website": "https://www.feines-design.net",
+    "city": ["Frankfurt", "Offenbach", "Dreieich", "Darmstadt"],
+	"keywords": ["Grafikdesign", "Corporate Design", "Konzept", "Website", "Print", "Screen"],
+    "profiles": {
+        "xing": "https://www.xing.com/xbp/pages/feines-design"
+    }
+}
