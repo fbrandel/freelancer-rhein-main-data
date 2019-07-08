@@ -1,0 +1,25 @@
+{
+	"name": "Christina Wolff",
+	"title": "Graphic Design und Illustrationen",
+	"email": "mail@mantikastudio.com",
+	"phone": "015164578331",
+	"website": "http://www.mantikastudio.com",
+	"city": ["Frankfurt", "Gießen", "Wetzlar"],
+	"keywords": ["Illustrationen", "Graphic Design", "Logo Design", "Photoshop"],
+	"profiles": {
+		"gravatar": "mail@mantikastudio.com",
+		"Instagram": "https://www.instagram.com/mantikastudio/",
+		"google+": "",
+		"facebook": "",
+		"linkedin": "",
+		"github": "",
+		"stackoverflow": "",
+		"aboutme": "",
+		"tumblr": "",
+		"500px": "",
+		"behance": "",
+		"flickr": "",
+		"slideshare": "",
+		"pinboard": ""
+	}
+}
