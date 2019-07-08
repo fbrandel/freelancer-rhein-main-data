@@ -1,0 +1,11 @@
+{
+    "name": "Nora Werner",
+    "title": "Produktdesign",
+    "email": "hallo@norawerner.de",
+    "website": "https://www.norawerner.de",
+    "city": ["Heidelberg", "Mannheim", "Darmstadt"],
+    "keywords": ["3D", "CAD", "Produktdesign", "Industriedesign", "Visualisierung", "Modellierung", "Konstruktion", "Produktentwicklung", "Prototyping"],
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/nora-werner-265365173/"
+     }
+}
