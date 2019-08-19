@@ -1,0 +1,26 @@
+{
+    "name": "Daniel Liebig",
+    "title": "Webentwicklung und Webdesign",
+    "email": "hello@content-trifft-commerce.de",
+    "phone": "0176 42550801",
+    "website": "https://content-trifft-commerce.de",
+    "city": ["Bensheim", "Heppenheim", "Odenwald", "Darmstadt", "Lorsch"],
+    "keywords": ["Webentwicklung", "Webdesign", "IT-Beratung"],
+    "profiles": {
+        "gravatar": "d.liebig@content-trifft-commerce.de",
+        "xing": "https://www.xing.com/profile/Daniel_Liebig4",
+        "twitter": "https://twitter.com/danielliebig",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "https://www.linkedin.com/in/daniel-liebig-635bab4/",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
