@@ -1,0 +1,26 @@
+{
+    "name": "Axel Müller",
+    "title": "Full Stack Entwickler",
+    "email": "axel.mueller@avanux.de",
+    "phone": "0177 2935683",
+    "website": "https://github.com/camueller/cv",
+    "city": ["Frankfurt", "Offenbach", "Hanau", "Bad Homburg"],
+    "keywords": ["java", "spring", "angular", "vue", "typescript", "aws", "browserstack", "gitlab", "ci/cd", "docker", "android"],
+    "profiles": {
+        "gravatar": "axel.mueller@avanux.de",
+        "xing": "https://www.xing.com/profile/Axel_Mueller4",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "",
+        "github": "https://github.com/camueller",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
