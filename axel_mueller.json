@@ -5,7 +5,7 @@
     "phone": "0177 2935683",
     "website": "https://github.com/camueller/cv",
     "city": ["Frankfurt", "Offenbach", "Hanau", "Bad Homburg"],
-    "keywords": ["java", "spring", "angular", "vue", "typescript", "aws", "browserstack", "gitlab", "ci/cd", "docker", "android"],
+    "keywords": ["java", "spring", "angular", "vue", "typescript", "aws", "browserstack", "git", "gitlab", "ci/cd", "docker", "openshift", "android"],
     "profiles": {
         "gravatar": "axel.mueller@avanux.de",
         "xing": "https://www.xing.com/profile/Axel_Mueller4",
