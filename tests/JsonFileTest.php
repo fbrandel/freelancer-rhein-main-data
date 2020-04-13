@@ -1,6 +1,8 @@
 <?php
 
-class JsonFileTest extends PHPUnit_Framework_TestCase
+use PHPUnit\Framework\TestCase;
+
+class JsonFileTest extends TestCase
 {
     /**
      * @dataProvider jsonFileProvider
@@ -34,7 +36,7 @@ class JsonFileTest extends PHPUnit_Framework_TestCase
         $decoded = json_decode($json);
 
         if (!empty($decoded->profiles->gravatar)) {
-            $this->assertContains('@', $decoded->profiles->gravatar, 'Gravatar profile must contain an email address');
+            $this->assertStringContainsString('@', $decoded->profiles->gravatar, 'Gravatar profile must contain an email address');
         }
     }
 
