@@ -1,0 +1,14 @@
+{
+    "name": "Fritz Iversen",
+    "title": "Texter, Werbetexter und Websitetexter",
+    "email": "texter@email.de",
+    "phone": "0179 690 48 42",
+    "website": "https://www.sales-messages.de",
+    "city": ["Frankfurt", "Rheinmain", "Offenbach", "Darmstadt"],
+    "keywords": ["Werbetexter Franfurt", "Onlinewerbung", "Website texten", "Verkaufstexte", "Landingpages", "Kundenkommunikation", "GUI-texten", "Handbuch texten"],
+    "profiles": {
+        "gravatar": "texter@email.de",
+        "xing": "https://xing.com/Fritz_Iversen",
+        "linkedin": "https://linkedin.com/fritziversen"
+    }
+}

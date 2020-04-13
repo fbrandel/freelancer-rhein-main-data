@@ -1,0 +1,26 @@
+{
+    "name": "Linda Wagner",
+    "title": "Grafikdesign",
+    "email": "hello@littlegraphic.de",
+    "phone": "0178 4308094",
+    "website": "https://www.littlegraphic.de",
+    "city": ["Mainz", "Wiesbaden", "Frankfurt", "Darmstadt"],
+    "keywords": ["grafikdesignerin", "corporate design", "webdesign", "logo-design"],
+    "profiles": {
+        "gravatar": "ello@littlegraphic.de",
+        "xing": "https://www.xing.com/profile/Linda_Wagner50/cv",
+        "twitter": "",
+        "google+": "",
+        "facebook": "https://www.facebook.com/littlegraphic/",
+        "linkedin": "https://www.linkedin.com/in/linda-wagner-377702198/",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}

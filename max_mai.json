@@ -1,0 +1,26 @@
+{
+  "name": "Max Mai",
+  "title": "Full Service Webdesign + Webdevelopment",
+  "email": "mai@max-interactive.com",
+  "phone": "+491776296240",
+  "website": "https://max-interactive.com",
+  "city": ["Bad Nauheim", "Frankfurt"],
+  "keywords": ["concept", "consulting", "design", "frontend", "relaunch", "responsive", "html", "php", "css", "scss", "js", "vue", "rails"],
+  "profiles": {
+    "gravatar": "mai@max-interactive.com",
+    "xing": "https://www.xing.com/profile/max_mai",
+    "twitter": "https://twitter.com/maxinteractive",
+    "google+": "",
+    "facebook": "",
+    "linkedin": "",
+    "github": "",
+    "stackoverflow": "",
+    "aboutme": "",
+    "tumblr": "",
+    "500px": "",
+    "behance": "",
+    "flickr": "",
+    "slideshare": "",
+    "pinboard": ""
+  }
+}
