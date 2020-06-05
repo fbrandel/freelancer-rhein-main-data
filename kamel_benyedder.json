@@ -1,0 +1,26 @@
+{
+  "name": "Kamel Ben Yedder",
+  "title": "TYPO3 Freelancer und Developer",
+  "email": "bykamel@outlook.de",
+  "phone": "01577 7267201",
+  "website": "https://kamel.benyedder.de",
+  "city": ["Frankfurt", "Rüsselsheim","wiesbaden","Mainz"],
+  "keywords": ["Webdevelopment", "TYPO3 Programmierer", "TYPO3 Entwickler", "Freelancer in Rüsselsheim","TYPO3 Freelancer","Typo3","php", "Bootstrap","jQuery","Frontend","Backend"],
+  "profiles": {
+    "gravatar": "bykamel@outlook.de",
+    "xing": "https://www.xing.com/profile/kamel_BenYedder/cv",
+    "twitter": "",
+    "google+": "",
+    "facebook": "",
+    "linkedin": "",
+    "github": "",
+    "stackoverflow": "",
+    "aboutme": "",
+    "tumblr": "",
+    "500px": "",
+    "behance": "",
+    "flickr": "",
+    "slideshare": "",
+    "pinboard": ""
+  }
+}
