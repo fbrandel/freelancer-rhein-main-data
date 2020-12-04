@@ -1,0 +1,26 @@
+{
+    "name": "Renée Bäcker",
+    "title": "Perl Entwickler",
+    "email": "info@perl-services.de",
+    "phone": "0180-300 221 048 94",
+    "website": "http://www.perl-services.de",
+    "city": ["Frankfurt", "Darmstadt"],
+    "keywords": ["Linux", "Perl", "CentOS", "Ubuntu", "Datenbanken", "MySQL", "Open Source"],
+    "profiles": {
+        "gravatar": "",
+        "xing": "https://www.xing.com/profile/Renee_Baecker",
+        "twitter": "https://twitter.com/reneeb_perl",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "https://www.linkedin.com/in/renee-b-545998161/",
+        "github": "https://github.com/reneeb",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "https://www2.slideshare.net/reneebperl/",
+        "pinboard": ""
+    }
+}
