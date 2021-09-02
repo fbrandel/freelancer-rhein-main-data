@@ -1,6 +1,6 @@
 {
   "name": "Marvin Bernd",
-  "title": "Web Designer & Developer",
+  "title": "Web Designer & Frontend Developer",
   "email": "hello@marvinbernd.de",
   "phone": "01520 6049110",
   "website": "https://www.marvinbernd.de",
@@ -15,17 +15,23 @@
     "Neu-Isenburg"
   ],
   "keywords": [
-    "WordPress",
-    "CSS",
     "JavaScript",
     "React",
-    "Programmierer",
+    "WordPress",
+    "Shopify",
     "Webdesign",
     "Webentwickler",
+    "Programmierer",
+    "SEO",
+    "CSS",
     "HTML",
+    "Node.js",
     "Contao",
     "Kirby",
-    "Gatsby"
+    "Shopware",
+    "Gatsby",
+    "API",
+    "Website"
   ],
   "profiles": {
     "gravatar": "hello@marvinbernd.de",
