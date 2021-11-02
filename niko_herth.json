@@ -1,0 +1,26 @@
+{
+  "name": "Niko Herth",
+  "title": "TYPO3-Entwickler, Scrum Master",
+  "email": "mail@nherth.de",
+  "phone": "06101-8031002",
+  "website": "https://nherth.de",
+  "city": ["Bad Vilbel", "Frankfurt", "Offenbach", "Dreieich", "Hanau", "Rhein-Main"],
+  "keywords": ["TYPO3", "Web Development", "PHP", "Qualitätssicherung", "Scrum", "Scrum Master", "MySQL", "NoSQL", "Laminas Project"],
+  "profiles": {
+    "gravatar": "mail@nherth.de",
+    "xing": "https://www.xing.com/profile/Niko_Herth",
+    "twitter": "",
+    "google+": "",
+    "facebook": "",
+    "linkedin": "",
+    "github": "",
+    "stackoverflow": "",
+    "aboutme": "",
+    "tumblr": "",
+    "500px": "",
+    "behance": "",
+    "flickr": "",
+    "slideshare": "",
+    "pinboard": ""
+  }
+}
