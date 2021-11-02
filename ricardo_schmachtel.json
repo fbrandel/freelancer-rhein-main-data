@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Schmachtel",
+  "title": "Frontend Developer / Contao / Webdesign / Corporate Design",
+  "email": "office@createdbyrs.de",
+  "phone": "0151 23097234",
+  "website": "https://www.createdbyrs.de",
+  "city": ["Frankfurt", "Hanau", "Aschaffenburg", "Rhein-Main"],
+  "keywords": ["Webentwicklung", "Frontend", "HTML", "CSS/SCSS", "Bootstrap", "Contao", "Corporate Design"],
+  "profiles": {
+      "gravatar": "rschmachtel@gmail.com",
+      "xing": "https://www.xing.com/profile/Ricardo_Schmachtel",
+      "twitter": "",
+      "google+": "",
+      "facebook": "",
+      "linkedin": "https://www.linkedin.com/in/ricardo-schmachtel-117350146",
+      "github": "",
+      "stackoverflow": "",
+      "aboutme": "",
+      "tumblr": "",
+      "500px": "",
+      "behance": "",
+      "flickr": "",
+      "slideshare": "",
+      "pinboard": ""
+  }
+}
