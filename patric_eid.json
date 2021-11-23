@@ -1,0 +1,36 @@
+{
+    "name": "Patric Eid",
+    "title": "Projektberater, Trainer und Agile Coach",
+    "email": "p.eid@advitago.com",
+    "phone": "+49 1520 6145297",
+    "website": "https://advitago.academy",
+    "city": ["Wiesbaden", "Mainz", "Frankfurt", "Remote"],
+    "keywords": [
+      "agile coach",
+      "business coach",
+      "training",
+      "workshops",
+      "scrum",
+      "kanban",
+      "scrum master",
+      "product owner",
+      "projektleiter",
+      "story mapping"],
+    "profiles": {
+        "gravatar": "patric@advitago.academy",
+        "xing": "https://www.xing.com/profile/Patric_Eid",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "https://www.linkedin.com/in/patric-eid/",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
