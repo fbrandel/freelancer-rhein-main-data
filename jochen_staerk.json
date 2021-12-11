@@ -5,7 +5,7 @@
     "phone": "01774512645",
     "website": "http://www.usegroup.de",
     "city": ["Frankfurt", "Offenbach", "Mainz", "Wiesbaden"],
-    "keywords": ["PHP", "Backend", "MySQL", "HTML", "CSS", "Javascript", "Programmierer"],
+    "keywords": ["PHP", "Backend", "MySQL", "HTML", "CSS", "Javascript", "Programmierer", "Java", "Open-Source", "Factur-X", "ZUGFeRD", "XRechnung", "e-Rechnung"],
     "profiles": {
         "gravatar": "jstaerk@usegroup.de",
         "xing": "http://xing.to/jstaerk",
@@ -13,7 +13,7 @@
         "google+": "",
         "facebook": "",
         "linkedin": "http://www.linkedin.com/in/jstaerk",
-        "github": "",
+        "github": "https://github.com/jstaerk/",
         "stackoverflow": "",
         "aboutme": "",
         "tumblr": "",
