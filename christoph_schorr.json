@@ -5,7 +5,7 @@
     "phone": "+49 151 2121 8787",
     "website": "https://c3net.de",
     "city": ["Frankfurt", "Darmstadt", "Wiesbaden", "Offenbach", "Mainz", "Hanau"],
-    "keywords": ["PHP", "TYPO3", "Enterprise CMS", "Enterprise Web Applications", "Symfony", "Deployment", "Jenkins", "Git", "Gitlab", "Continuous Integration", "Continuous Deployment", "JavaScript", "HTML", "CSS", "Unit Testing", "Functional Testing", "Acceptance Testing"],
+    "keywords": ["PHP", "TYPO3 CMS", "Enterprise Web Applications", "Symfony", "Deployment", "Jenkins", "Git", "Gitlab", "Continuous Integration", "Continuous Deployment", "JavaScript", "HTML", "CSS", "Unit Testing", "Functional Testing", "Acceptance Testing"],
     "profiles": {
         "gravatar": "c.schorr@c3net.de",
         "xing": "https://www.xing.com/profile/Christoph_Schorr",
