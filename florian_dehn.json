@@ -1,0 +1,25 @@
+{
+	"name": "Florian Dehn",
+	"title": "Software Engineer & Fotograf",
+	"email": "info@katzefudder.de",
+	"phone": "015124147281",
+	"website": "https://www.katzefudder.de",
+	"city": ["Frankfurt", "Gießen", "Wetzlar"],
+	"keywords": ["DevOps", "AWS", "Azure", "Kubernetes", "PHP", "Laravel", "Python", "GOlang", "JavaScript", "VueJS", "Docker", "Terraform", "Ansible", "Fotografie"],
+	"profiles": {
+		"gravatar": "flo@katzefudder.de",
+		"instagram": "https://www.instagram.com/katzefudder/",
+		"google+": "",
+		"facebook": "",
+		"linkedin": "https://www.linkedin.com/in/floriandehn/",
+		"github": "https://github.com/katzefudder",
+		"stackoverflow": "",
+		"aboutme": "",
+		"tumblr": "",
+		"500px": "",
+		"behance": "",
+		"flickr": "https://www.flickr.com/katzenfutter/",
+		"slideshare": "",
+		"pinboard": ""
+	}
+}
