@@ -3,21 +3,21 @@
     "title": "Web Application Architect & Developer",
     "email": "c.schorr@c3net.de",
     "phone": "+49 151 2121 8787",
-    "website": "http://www.c3net.de",
+    "website": "https://c3net.de",
     "city": ["Frankfurt", "Darmstadt", "Wiesbaden", "Offenbach", "Mainz", "Hanau"],
-    "keywords": ["PHP", "TYPO3", "NEOS", "Drupal", "Enterprise CMS", "Enterprise Web Applications", "Symfony", "JavaScript", "HTML5", "CSS3", "Deployment", "Jenkins", "Git", "Gitlab", "Continuous Integration", "Continuous Deployment", "Unit Testing", "Functional Testing", "Acceptance Testing"],
+    "keywords": ["PHP", "TYPO3 CMS", "Enterprise Web Applications", "Symfony", "Deployment", "Jenkins", "Git", "Gitlab", "Continuous Integration", "Continuous Deployment", "JavaScript", "HTML", "CSS", "Unit Testing", "Functional Testing", "Acceptance Testing"],
     "profiles": {
         "gravatar": "c.schorr@c3net.de",
         "xing": "https://www.xing.com/profile/Christoph_Schorr",
         "twitter": "https://twitter.com/cschorr",
-        "google+": "https://plus.google.com/+ChristophSchorr/about",
+        "google+": "",
         "linkedin": "http://de.linkedin.com/in/cschorr",
         "github": "https://github.com/cschorr",
         "stackoverflow": "http://stackoverflow.com/users/1081436/cschorr",
         "aboutme": "http://about.me/christophschorr",
         "500px": "",
         "behance": "",
-        "flickr": "https://www.flickr.com/photos/cschorr",
+        "flickr": "",
         "slideshare": "http://de.slideshare.net/cschorr"
     }
 }
